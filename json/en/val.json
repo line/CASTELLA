@@ -1,0 +1,7323 @@
+[
+  {
+    "yid": "rqfQRErjfk8",
+    "global_caption": "Music fills the air while a man sings and the crowd cheers and applauds",
+    "duration": 191,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Music is playing and a man is singing",
+        "timestamps": [
+          [
+            4,
+            109
+          ],
+          [
+            122,
+            154
+          ]
+        ]
+      },
+      {
+        "local_caption": "Loud cheering and applause from a crowd",
+        "timestamps": [
+          [
+            169,
+            190
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "rwT__ERCUno",
+    "global_caption": "A man is starting a motorcycle while talking",
+    "duration": 154,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Metal tools clanging together",
+        "timestamps": [
+          [
+            52,
+            56
+          ],
+          [
+            64,
+            80
+          ],
+          [
+            86,
+            90
+          ]
+        ]
+      },
+      {
+        "local_caption": "Engine noise",
+        "timestamps": [
+          [
+            89,
+            154
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man's voice blends with engine noise",
+        "timestamps": [
+          [
+            105,
+            112
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "rwb6PSAee5Y",
+    "global_caption": "Someone flushes a toilet",
+    "duration": 74,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Someone opens and closes a door",
+        "timestamps": [
+          [
+            21,
+            26
+          ]
+        ]
+      },
+      {
+        "local_caption": "A toilet is flushing",
+        "timestamps": [
+          [
+            34,
+            46
+          ],
+          [
+            59,
+            71
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "rwtmaKiCcQU",
+    "global_caption": "People are talking and spraying something while engines run",
+    "duration": 77,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Engines are running and something is being sprayed",
+        "timestamps": [
+          [
+            25,
+            28
+          ],
+          [
+            29,
+            32
+          ],
+          [
+            36,
+            41
+          ],
+          [
+            42,
+            48
+          ],
+          [
+            50,
+            58
+          ],
+          [
+            59,
+            69
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "s3cT_DAj31g",
+    "global_caption": "A man is talking, making something, and walking on snow",
+    "duration": 116,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A man is talking and lighting a stove",
+        "timestamps": [
+          [
+            21,
+            23
+          ]
+        ]
+      },
+      {
+        "local_caption": "Something is boiling",
+        "timestamps": [
+          [
+            32,
+            36
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man, a woman, and a child are talking and eating candy",
+        "timestamps": [
+          [
+            64,
+            75
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "s4Uz1Ffgo04",
+    "global_caption": "Several people are chatting while a car goes by",
+    "duration": 240,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A siren goes off and the sound of a car driving",
+        "timestamps": [
+          [
+            0,
+            9
+          ],
+          [
+            156,
+            160
+          ],
+          [
+            233,
+            240
+          ]
+        ]
+      },
+      {
+        "local_caption": "A horn honks and a car is driving",
+        "timestamps": [
+          [
+            189,
+            191
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "s4tUs779vBA",
+    "global_caption": "An animal calls out, gunshots ring out, a voice speaks, and sound effects play",
+    "duration": 258,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Sound effects play, gunshots ring out, and a man speaks",
+        "timestamps": [
+          [
+            157,
+            254
+          ],
+          [
+            51,
+            142
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "s7knHCFW82w",
+    "global_caption": "A train is moving along, sounding its horn and bell",
+    "duration": 235,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A man is speaking while a train bell rings",
+        "timestamps": [
+          [
+            0,
+            13
+          ]
+        ]
+      },
+      {
+        "local_caption": "A train is moving along, sounding its horn",
+        "timestamps": [
+          [
+            15,
+            44
+          ],
+          [
+            70,
+            89
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sC_i_y7QS1U",
+    "global_caption": "A man is talking while a motorcycle engine is running",
+    "duration": 299,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A man is talking while a motorcycle engine is running",
+        "timestamps": [
+          [
+            118,
+            300
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sCeWURVHfOM",
+    "global_caption": "A pendulum clock chimes",
+    "duration": 94,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "sEprKHm8Sj8",
+    "global_caption": "During a car race, cheers from the crowd, gusts of wind, camera shutters, and birds occasionally chirp",
+    "duration": 288,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "With engine noise rumbling, a horn blares out",
+        "timestamps": [
+          [
+            40,
+            45
+          ]
+        ]
+      },
+      {
+        "local_caption": "With engine noise rumbling, the wind blows, people are talking, and someone is laughing",
+        "timestamps": [
+          [
+            221,
+            225
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sIXTftIuUgw",
+    "global_caption": "Someone talking where birds are singing",
+    "duration": 104,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A balloon deflates",
+        "timestamps": [
+          [
+            33,
+            35
+          ]
+        ]
+      },
+      {
+        "local_caption": "A pop and screaming",
+        "timestamps": [
+          [
+            81,
+            85
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is whistling",
+        "timestamps": [
+          [
+            85,
+            102
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sLkeqCDJIyw",
+    "global_caption": "Someone is snoring",
+    "duration": 193,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Someone is snoring and something is falling",
+        "timestamps": [
+          [
+            0,
+            1
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sNB8zxXneIM",
+    "global_caption": "Roosters and other birds are calling",
+    "duration": 98,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Roosters and other birds are calling",
+        "timestamps": [
+          [
+            6,
+            93
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sOa7g-44Dag",
+    "global_caption": "A man talks while spraying something",
+    "duration": 107,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A man talks as machines whir and something gets sprayed",
+        "timestamps": [
+          [
+            8,
+            16
+          ],
+          [
+            27,
+            57
+          ],
+          [
+            62,
+            87
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sSMl2vc3e_k",
+    "global_caption": "A man talks while someone snores",
+    "duration": 105,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A man is talking",
+        "timestamps": [
+          [
+            0,
+            5
+          ],
+          [
+            66,
+            68
+          ],
+          [
+            93,
+            105
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is snoring",
+        "timestamps": [
+          [
+            6,
+            104
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sTpirNYo8vQ",
+    "global_caption": "A car drives as several men have a conversation",
+    "duration": 145,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "sYITalLZjj4",
+    "global_caption": "Birds chirp as wind blows, with occasional voices and camera shutters clicking",
+    "duration": 108,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Sound effects are playing",
+        "timestamps": [
+          [
+            0,
+            11
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sZuuj08Gr_I",
+    "global_caption": "A woman is talking while baking and mixing something using an oven and a mixer",
+    "duration": 224,
+    "num_moments": 5,
+    "moments": [
+      {
+        "local_caption": "A woman is talking while mixing something in a dish",
+        "timestamps": [
+          [
+            27,
+            34
+          ],
+          [
+            85,
+            95
+          ],
+          [
+            113,
+            116
+          ]
+        ]
+      },
+      {
+        "local_caption": "Mixing something in a dish",
+        "timestamps": [
+          [
+            147,
+            155
+          ],
+          [
+            113,
+            118
+          ],
+          [
+            84,
+            95
+          ],
+          [
+            27,
+            34
+          ]
+        ]
+      },
+      {
+        "local_caption": "Scooping something and putting it into a blender",
+        "timestamps": [
+          [
+            161,
+            168
+          ]
+        ]
+      },
+      {
+        "local_caption": "A mixer is running",
+        "timestamps": [
+          [
+            169,
+            178
+          ]
+        ]
+      },
+      {
+        "local_caption": "Sifting something with a strainer",
+        "timestamps": [
+          [
+            194,
+            206
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "s_apQIQUhFc",
+    "global_caption": "Music plays as a man talks, gunshots ring out, and water flows",
+    "duration": 300,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Music plays",
+        "timestamps": [
+          [
+            4,
+            34
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music plays as gunshots ring out",
+        "timestamps": [
+          [
+            28,
+            30
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man laughs",
+        "timestamps": [
+          [
+            176,
+            178
+          ],
+          [
+            181,
+            183
+          ],
+          [
+            255,
+            257
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sd7x_Vssqlw",
+    "global_caption": "Music is playing, a man is talking, and cars are drifting",
+    "duration": 127,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A man is talking and a car is driving",
+        "timestamps": [
+          [
+            63,
+            69
+          ],
+          [
+            73,
+            81
+          ],
+          [
+            83,
+            88
+          ],
+          [
+            90,
+            97
+          ],
+          [
+            100,
+            105
+          ],
+          [
+            107,
+            109
+          ],
+          [
+            110,
+            112
+          ],
+          [
+            114,
+            120
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sd_XV-ylviw",
+    "global_caption": "Music plays as urinals and toilets flush",
+    "duration": 299,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A urinal flushes",
+        "timestamps": [
+          [
+            11,
+            21
+          ],
+          [
+            42,
+            49
+          ],
+          [
+            110,
+            120
+          ],
+          [
+            145,
+            160
+          ],
+          [
+            24,
+            31
+          ],
+          [
+            53,
+            68
+          ],
+          [
+            73,
+            84
+          ],
+          [
+            89,
+            95
+          ],
+          [
+            178,
+            190
+          ],
+          [
+            215,
+            226
+          ],
+          [
+            255,
+            269
+          ]
+        ]
+      },
+      {
+        "local_caption": "A door creaks as it opens",
+        "timestamps": [
+          [
+            229,
+            236
+          ],
+          [
+            269,
+            271
+          ],
+          [
+            273,
+            275
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "se87d6yxEOA",
+    "global_caption": "A steam train is moving along, blowing its whistle and ringing a bell",
+    "duration": 256,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "A train is moving along, blowing its whistle",
+        "timestamps": [
+          [
+            12,
+            22
+          ],
+          [
+            74,
+            80
+          ],
+          [
+            41,
+            47
+          ],
+          [
+            130,
+            134
+          ],
+          [
+            136,
+            140
+          ],
+          [
+            143,
+            150
+          ],
+          [
+            159,
+            163
+          ],
+          [
+            164,
+            169
+          ],
+          [
+            171,
+            174
+          ]
+        ]
+      },
+      {
+        "local_caption": "A train is moving along, ringing its bell",
+        "timestamps": [
+          [
+            82,
+            150
+          ],
+          [
+            205,
+            240
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is speaking while music is playing",
+        "timestamps": [
+          [
+            190,
+            200
+          ]
+        ]
+      },
+      {
+        "local_caption": "A sound like steam is rising",
+        "timestamps": [
+          [
+            241,
+            255
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sfAvvZwdLCY",
+    "global_caption": "Someone flushes a toilet",
+    "duration": 60,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A toilet flushes",
+        "timestamps": [
+          [
+            5,
+            11
+          ],
+          [
+            20,
+            30
+          ]
+        ]
+      },
+      {
+        "local_caption": "Water is flowing",
+        "timestamps": [
+          [
+            45,
+            59
+          ],
+          [
+            20,
+            30
+          ],
+          [
+            5,
+            11
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sgAjFcKriHk",
+    "global_caption": "Recording airplane engine sounds and mechanical noises",
+    "duration": 241,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "The roar of the airplane engines",
+        "timestamps": [
+          [
+            0,
+            132
+          ],
+          [
+            141,
+            190
+          ],
+          [
+            223,
+            241
+          ]
+        ]
+      },
+      {
+        "local_caption": "Voices over the sound of airplane engines",
+        "timestamps": [
+          [
+            134,
+            140
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sjlVMgdGSK0",
+    "global_caption": "Cars race as voices occasionally rise",
+    "duration": 108,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "slZLHwNbbt4",
+    "global_caption": "Several trains are running and blowing their horns",
+    "duration": 299,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A train is running and blowing its horn",
+        "timestamps": [
+          [
+            5,
+            9
+          ],
+          [
+            217,
+            219
+          ],
+          [
+            272,
+            276
+          ],
+          [
+            25,
+            28
+          ],
+          [
+            31,
+            35
+          ],
+          [
+            51,
+            54
+          ],
+          [
+            59,
+            61
+          ],
+          [
+            64,
+            66
+          ],
+          [
+            119,
+            123
+          ],
+          [
+            148,
+            150
+          ],
+          [
+            154,
+            158
+          ],
+          [
+            178,
+            184
+          ]
+        ]
+      },
+      {
+        "local_caption": "Birds are chirping while the wind is blowing, and a train is running and blowing its horn",
+        "timestamps": [
+          [
+            178,
+            184
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "smGI3C1N_Zc",
+    "global_caption": "Water is running from a faucet, footsteps sound, and a door opens and closes",
+    "duration": 128,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Water is running",
+        "timestamps": [
+          [
+            5,
+            21
+          ],
+          [
+            30,
+            41
+          ],
+          [
+            63,
+            73
+          ],
+          [
+            96,
+            113
+          ]
+        ]
+      },
+      {
+        "local_caption": "A door opens and closes",
+        "timestamps": [
+          [
+            53,
+            55
+          ],
+          [
+            82,
+            83
+          ],
+          [
+            18,
+            20
+          ],
+          [
+            25,
+            29
+          ],
+          [
+            75,
+            76
+          ],
+          [
+            90,
+            91
+          ],
+          [
+            118,
+            120
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "snFy48Lv3r8",
+    "global_caption": "A boat is moving while the wind blows",
+    "duration": 136,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "soTOh3zYJfY",
+    "global_caption": "Car drifting",
+    "duration": 103,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "sofxkNWaP0s",
+    "global_caption": "A plane flies overhead in the wind as a man and child talk",
+    "duration": 60,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A plane flies in the wind as a man and child are talking",
+        "timestamps": [
+          [
+            7,
+            11
+          ],
+          [
+            19,
+            26
+          ],
+          [
+            31,
+            35
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "spJCm8tD9Zo",
+    "global_caption": "Amid white noise, a man and woman talk, snoring sounds, metal scrapes, a dog barks, a rooster crows, objects bump together, and audible breathing",
+    "duration": 237,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Chickens cluck amid the noise",
+        "timestamps": [
+          [
+            152,
+            155
+          ],
+          [
+            157,
+            160
+          ],
+          [
+            176,
+            179
+          ],
+          [
+            87,
+            90
+          ],
+          [
+            140,
+            142
+          ]
+        ]
+      },
+      {
+        "local_caption": "Laughter rings out amid the noise",
+        "timestamps": [
+          [
+            234,
+            237
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sr1_Gfm0syI",
+    "global_caption": "Cows are mooing while people cheer and a man speaks into a microphone",
+    "duration": 173,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "Several people are applauding",
+        "timestamps": [
+          [
+            68,
+            73
+          ],
+          [
+            112,
+            117
+          ],
+          [
+            138,
+            143
+          ]
+        ]
+      },
+      {
+        "local_caption": "People are cheering",
+        "timestamps": [
+          [
+            112,
+            117
+          ],
+          [
+            134,
+            142
+          ],
+          [
+            70,
+            75
+          ],
+          [
+            127,
+            130
+          ]
+        ]
+      },
+      {
+        "local_caption": "A cow is mooing",
+        "timestamps": [
+          [
+            131,
+            134
+          ],
+          [
+            75,
+            77
+          ],
+          [
+            120,
+            123
+          ],
+          [
+            161,
+            167
+          ],
+          [
+            169,
+            171
+          ]
+        ]
+      },
+      {
+        "local_caption": "A buzzer sounds, people are cheering and applauding, and a man is speaking into a microphone",
+        "timestamps": [
+          [
+            150,
+            159
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sxIvBMSavMQ",
+    "global_caption": "Music plays at the start while bees buzz and a man talks",
+    "duration": 300,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Music is playing",
+        "timestamps": [
+          [
+            0,
+            16
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man is spraying something while birds are chirping",
+        "timestamps": [
+          [
+            38,
+            40
+          ],
+          [
+            66,
+            70
+          ],
+          [
+            75,
+            78
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "syyyCQcHSfQ",
+    "global_caption": "Someone snores while music plays in the background and cars occasionally pass by",
+    "duration": 107,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Someone snores as music plays in the background and a car passes by",
+        "timestamps": [
+          [
+            37,
+            42
+          ],
+          [
+            77,
+            82
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "t25U-v4k4ts",
+    "global_caption": "As a man and woman talk, bees buzz, air blows, birds sing, wind rustles, something is hitting wood, and other noises",
+    "duration": 180,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Air blows amid the noise",
+        "timestamps": [
+          [
+            0,
+            2
+          ],
+          [
+            11,
+            17
+          ]
+        ]
+      },
+      {
+        "local_caption": "Amid the noise, something is hitting wood and bees are buzzing",
+        "timestamps": [
+          [
+            33,
+            41
+          ],
+          [
+            92,
+            94
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "t4WCFbE0A50",
+    "global_caption": "A man and a woman are talking as wind blows, with snake and cattle sounds in the background",
+    "duration": 65,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A cow and an animal are making sounds as the wind blows",
+        "timestamps": [
+          [
+            24,
+            35
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "t5ZbXbniOWk",
+    "global_caption": "A helicopter is flying",
+    "duration": 171,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "t69a8aRKhmc",
+    "global_caption": "Two men are talking while pigeons coo and fly around",
+    "duration": 136,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A man is talking while pigeons coo",
+        "timestamps": [
+          [
+            98,
+            104
+          ]
+        ]
+      },
+      {
+        "local_caption": "Several pigeons are flying simultaneously",
+        "timestamps": [
+          [
+            132,
+            135
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "t8CV69hcvF0",
+    "global_caption": "A woman frequently sneezes, sniffs, blows her nose, and occasionally talks",
+    "duration": 300,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A woman is sneezing",
+        "timestamps": [
+          [
+            7,
+            9
+          ],
+          [
+            64,
+            67
+          ],
+          [
+            117,
+            119
+          ],
+          [
+            207,
+            208
+          ],
+          [
+            266,
+            268
+          ],
+          [
+            299,
+            300
+          ],
+          [
+            16,
+            18
+          ],
+          [
+            19,
+            22
+          ],
+          [
+            10,
+            13
+          ],
+          [
+            32,
+            35
+          ],
+          [
+            37,
+            39
+          ],
+          [
+            41,
+            44
+          ],
+          [
+            80,
+            82
+          ],
+          [
+            88,
+            90
+          ],
+          [
+            125,
+            134
+          ],
+          [
+            159,
+            162
+          ],
+          [
+            164,
+            167
+          ],
+          [
+            209,
+            211
+          ],
+          [
+            212,
+            216
+          ],
+          [
+            228,
+            230
+          ],
+          [
+            231,
+            233
+          ],
+          [
+            236,
+            238
+          ],
+          [
+            248,
+            250
+          ],
+          [
+            279,
+            281
+          ],
+          [
+            285,
+            292
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone blowing their nose",
+        "timestamps": [
+          [
+            171,
+            174
+          ],
+          [
+            180,
+            185
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tB7hWb9gTuQ",
+    "global_caption": "Waves are crashing",
+    "duration": 81,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "tDVADusiIoc",
+    "global_caption": "Waves are crashing and the wind is blowing while a man is talking",
+    "duration": 83,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A woman is screaming",
+        "timestamps": [
+          [
+            19,
+            21
+          ]
+        ]
+      },
+      {
+        "local_caption": "Machinery is making noise",
+        "timestamps": [
+          [
+            44,
+            45
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man's voice comes from a radio as the wind blows",
+        "timestamps": [
+          [
+            61,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tDlfY3nmx1A",
+    "global_caption": "A man is speaking, clapping, and several people are laughing",
+    "duration": 209,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A man's voice and several people laughing",
+        "timestamps": [
+          [
+            38,
+            63
+          ],
+          [
+            78,
+            84
+          ],
+          [
+            101,
+            104
+          ],
+          [
+            115,
+            118
+          ],
+          [
+            121,
+            123
+          ],
+          [
+            156,
+            167
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man's voice and applause",
+        "timestamps": [
+          [
+            187,
+            188
+          ],
+          [
+            152,
+            167
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tDlysoZiA1I",
+    "global_caption": "An animal calls out as birds are chirping",
+    "duration": 60,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "An animal calls out as birds are chirping",
+        "timestamps": [
+          [
+            0,
+            21
+          ],
+          [
+            25,
+            38
+          ],
+          [
+            41,
+            49
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man is talking",
+        "timestamps": [
+          [
+            49,
+            51
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tEE3MpBt1sg",
+    "global_caption": "Two men are talking, laughing, and using a machine",
+    "duration": 128,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A man is laughing",
+        "timestamps": [
+          [
+            105,
+            128
+          ],
+          [
+            0,
+            14
+          ],
+          [
+            16,
+            24
+          ],
+          [
+            31,
+            32
+          ],
+          [
+            37,
+            84
+          ],
+          [
+            87,
+            94
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man is laughing and a machine is running",
+        "timestamps": [
+          [
+            48,
+            55
+          ],
+          [
+            42,
+            46
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tH-q8LXgHEc",
+    "global_caption": "Lots of birds are chirping",
+    "duration": 167,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Lots of birds are chirping and the sound of wings flapping",
+        "timestamps": [
+          [
+            16,
+            18
+          ],
+          [
+            44,
+            46
+          ],
+          [
+            50,
+            51
+          ],
+          [
+            61,
+            62
+          ],
+          [
+            88,
+            89
+          ],
+          [
+            105,
+            112
+          ],
+          [
+            163,
+            167
+          ]
+        ]
+      },
+      {
+        "local_caption": "Birds chirp while car horns honk nearby",
+        "timestamps": [
+          [
+            46,
+            48
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tH17JPjDPnc",
+    "global_caption": "Music is playing, with people talking, machines whirring, goats bleating, and metal clanking",
+    "duration": 270,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Many people are talking as metal scrapes together",
+        "timestamps": [
+          [
+            60,
+            73
+          ]
+        ]
+      },
+      {
+        "local_caption": "With music playing and machines running, people are talking",
+        "timestamps": [
+          [
+            74,
+            232
+          ]
+        ]
+      },
+      {
+        "local_caption": "With metal clanking in the background, several goats are bleating",
+        "timestamps": [
+          [
+            259,
+            268
+          ],
+          [
+            242,
+            245
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tK4VlLsNxak",
+    "global_caption": "A man is speaking while a bell rings",
+    "duration": 210,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A bell rings while a man is speaking",
+        "timestamps": [
+          [
+            161,
+            188
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tO_j4tdLRaA",
+    "global_caption": "A woman is talking and a baby is laughing",
+    "duration": 93,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "tPJvjq9QePY",
+    "global_caption": "Someone is talking and sheep are bleating",
+    "duration": 79,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Electronic sounds play",
+        "timestamps": [
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      {
+        "local_caption": "A woman's voice",
+        "timestamps": [
+          [
+            6,
+            9
+          ],
+          [
+            11,
+            14
+          ],
+          [
+            15,
+            18
+          ],
+          [
+            47,
+            48
+          ]
+        ]
+      },
+      {
+        "local_caption": "Sheep are bleating",
+        "timestamps": [
+          [
+            20,
+            22
+          ],
+          [
+            53,
+            56
+          ],
+          [
+            71,
+            73
+          ],
+          [
+            27,
+            30
+          ],
+          [
+            44,
+            47
+          ],
+          [
+            48,
+            50
+          ],
+          [
+            58,
+            60
+          ],
+          [
+            75,
+            76
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tQWGZLItBXk",
+    "global_caption": "A man speaks over game sounds and explosions",
+    "duration": 182,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A man is speaking, music plays, and water drains",
+        "timestamps": [
+          [
+            63,
+            70
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man is talking, game sounds, metal being struck in the game",
+        "timestamps": [
+          [
+            96,
+            103
+          ]
+        ]
+      },
+      {
+        "local_caption": "Eplosions are coming from the game",
+        "timestamps": [
+          [
+            161,
+            163
+          ],
+          [
+            166,
+            168
+          ],
+          [
+            107,
+            112
+          ],
+          [
+            121,
+            123
+          ],
+          [
+            16,
+            20
+          ],
+          [
+            26,
+            27
+          ],
+          [
+            82,
+            89
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tRJVUSdMjQI",
+    "global_caption": "Music is playing and a camera shutter clicks",
+    "duration": 233,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Music is playing",
+        "timestamps": [
+          [
+            156,
+            191
+          ],
+          [
+            202,
+            219
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music is playing, a man is speaking, a camera shutter clicks, and people are cheering and applauding",
+        "timestamps": [
+          [
+            217,
+            220
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tZGN5a7ybxo",
+    "global_caption": "A train runs with its horn and bell sounding, and the crossing alarm is ringing",
+    "duration": 94,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A train runs with its horn and bell sounding",
+        "timestamps": [
+          [
+            5,
+            8
+          ],
+          [
+            53,
+            57
+          ],
+          [
+            11,
+            13
+          ],
+          [
+            65,
+            70
+          ],
+          [
+            76,
+            79
+          ]
+        ]
+      },
+      {
+        "local_caption": "A crossing alarm is ringing and cars are driving by",
+        "timestamps": [
+          [
+            20,
+            27
+          ]
+        ]
+      },
+      {
+        "local_caption": "A train is running with horn sounding",
+        "timestamps": [
+          [
+            85,
+            93
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            11,
+            13
+          ],
+          [
+            53,
+            57
+          ],
+          [
+            65,
+            70
+          ],
+          [
+            76,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tc7UjDIyobI",
+    "global_caption": "Wind blows as birds chirp",
+    "duration": 133,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "tcd9QCdjTI0",
+    "global_caption": "Rain falls as thunder rumbles",
+    "duration": 65,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Rain falls as thunder rumbles",
+        "timestamps": [
+          [
+            2,
+            24
+          ],
+          [
+            40,
+            62
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tezvROoo4bs",
+    "global_caption": "Music is playing and engines are running",
+    "duration": 96,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Music is playing and engines are running",
+        "timestamps": [
+          [
+            1,
+            15
+          ]
+        ]
+      },
+      {
+        "local_caption": "An engine is running",
+        "timestamps": [
+          [
+            22,
+            45
+          ],
+          [
+            48,
+            63
+          ],
+          [
+            63,
+            89
+          ],
+          [
+            1,
+            15
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "ti_DFTC-5vU",
+    "global_caption": "Cicadas are singing, a duck quacks, an instrument plays, and several people are talking",
+    "duration": 64,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Cicadas are singing, a duck quacks, an instrument plays, and several people are talking",
+        "timestamps": [
+          [
+            0,
+            1
+          ],
+          [
+            3,
+            5
+          ],
+          [
+            10,
+            12
+          ]
+        ]
+      },
+      {
+        "local_caption": "Cicadas are singing, a duck quacks, and several people laugh and talk",
+        "timestamps": [
+          [
+            34,
+            40
+          ],
+          [
+            44,
+            48
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tvP4E1r7yk8",
+    "global_caption": "A train is running through different places, wind is blowing, and several men are talking",
+    "duration": 192,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A train is passing, a whistle is blowing, and a crossing bell is ringing",
+        "timestamps": [
+          [
+            1,
+            10
+          ]
+        ]
+      },
+      {
+        "local_caption": "Something is operating, wind is blowing, and two men are talking",
+        "timestamps": [
+          [
+            79,
+            90
+          ]
+        ]
+      },
+      {
+        "local_caption": "Train rumbling and a whistle",
+        "timestamps": [
+          [
+            186,
+            190
+          ],
+          [
+            121,
+            124
+          ],
+          [
+            128,
+            132
+          ],
+          [
+            138,
+            161
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "u--KhUW8l1Y",
+    "global_caption": "Sirens sound while engines run",
+    "duration": 78,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Sirens wail while engines run",
+        "timestamps": [
+          [
+            2,
+            31
+          ],
+          [
+            32,
+            78
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is talking while engines run",
+        "timestamps": [
+          [
+            30,
+            31
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "u-6osTkkOfY",
+    "global_caption": "A train moves along, releasing steam as it goes over the sound of the wind",
+    "duration": 254,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A train moves along, releasing steam as it goes over the sound of the wind",
+        "timestamps": [
+          [
+            25,
+            57
+          ],
+          [
+            178,
+            245
+          ]
+        ]
+      },
+      {
+        "local_caption": "The sound of steam being released",
+        "timestamps": [
+          [
+            86,
+            177
+          ],
+          [
+            61,
+            82
+          ]
+        ]
+      },
+      {
+        "local_caption": "A steam whistle is blowing while the wind is blowing",
+        "timestamps": [
+          [
+            113,
+            115
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "u5RmF3c3_Aw",
+    "global_caption": "A man speaks as a car drives, occasional cheers",
+    "duration": 152,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A car moves along as someone whistles",
+        "timestamps": [
+          [
+            29,
+            31
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "u6jIvCtKarQ",
+    "global_caption": "A man is cooking and talking, with occasional banging sounds coming from behind",
+    "duration": 198,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Liquid is flowing",
+        "timestamps": [
+          [
+            93,
+            118
+          ],
+          [
+            149,
+            171
+          ]
+        ]
+      },
+      {
+        "local_caption": "Liquid is flowing and something is being tapped",
+        "timestamps": [
+          [
+            149,
+            171
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "u9A6VZQCZpU",
+    "global_caption": "A race is underway, a man is commentating, and the crowd is enjoying themselves",
+    "duration": 193,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "An alarm is going off while engines are running",
+        "timestamps": [
+          [
+            79,
+            81
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man is announcing while the crowd is laughing and shouting over the sound of engines",
+        "timestamps": [
+          [
+            172,
+            176
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uC9dtII1KDI",
+    "global_caption": "Wind is blowing, birds are chirping, a woman is speaking, and an animal is walking",
+    "duration": 228,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Wind is blowing, birds are chirping, and an animal is walking",
+        "timestamps": [
+          [
+            7,
+            15
+          ],
+          [
+            27,
+            35
+          ],
+          [
+            121,
+            162
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uCuo8zAkTvE",
+    "global_caption": "Heavy rain falling",
+    "duration": 99,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Thunder rumbling amid rain falling and wind blowing",
+        "timestamps": [
+          [
+            45,
+            50
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uFoga8sHpiw",
+    "global_caption": "A parrot-like bird keeps moving",
+    "duration": 240,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Someone whistles softly",
+        "timestamps": [
+          [
+            36,
+            45
+          ],
+          [
+            87,
+            94
+          ],
+          [
+            136,
+            141
+          ],
+          [
+            148,
+            152
+          ],
+          [
+            230,
+            231
+          ],
+          [
+            97,
+            98
+          ],
+          [
+            224,
+            228
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uGS7O46tlSo",
+    "global_caption": "Birds are singing and a man is talking as the wind blows",
+    "duration": 130,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A man talks as the wind blows",
+        "timestamps": [
+          [
+            5,
+            19
+          ],
+          [
+            50,
+            130
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uJV8NDaHqqk",
+    "global_caption": "While birds chirp and several insects buzz, a car passes by partway through",
+    "duration": 299,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Birds chirping over the sound of insects buzzing",
+        "timestamps": [
+          [
+            0,
+            6
+          ],
+          [
+            28,
+            30
+          ],
+          [
+            35,
+            39
+          ],
+          [
+            44,
+            89
+          ],
+          [
+            92,
+            118
+          ],
+          [
+            123,
+            134
+          ],
+          [
+            141,
+            143
+          ],
+          [
+            151,
+            174
+          ],
+          [
+            178,
+            202
+          ],
+          [
+            203,
+            206
+          ],
+          [
+            208,
+            218
+          ],
+          [
+            226,
+            238
+          ],
+          [
+            242,
+            254
+          ],
+          [
+            266,
+            276
+          ]
+        ]
+      },
+      {
+        "local_caption": "Birds chirping over the sound of insects buzzing and a car driving",
+        "timestamps": [
+          [
+            276,
+            300
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uJe1Gvp-MeM",
+    "global_caption": "A rooster and other birds call",
+    "duration": 94,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Birds are chirping",
+        "timestamps": [
+          [
+            4,
+            85
+          ]
+        ]
+      },
+      {
+        "local_caption": "Chickens are clucking",
+        "timestamps": [
+          [
+            87,
+            90
+          ],
+          [
+            92,
+            95
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uK5doE8g_nY",
+    "global_caption": "Helicopter engines are roaring and a helicopter is flying",
+    "duration": 122,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Helicopter engines are roaring",
+        "timestamps": [
+          [
+            11,
+            24
+          ],
+          [
+            31,
+            44
+          ],
+          [
+            47,
+            57
+          ]
+        ]
+      },
+      {
+        "local_caption": "Helicopter rotors are spinning",
+        "timestamps": [
+          [
+            25,
+            31
+          ],
+          [
+            44,
+            47
+          ],
+          [
+            57,
+            116
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uMT_TDZ2mb4",
+    "global_caption": "Motors and engines are running amid background noise",
+    "duration": 75,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "uOJJan5RRGo",
+    "global_caption": "A boy is talking, a machine is playing a voice, and dishes are occasionally being set down",
+    "duration": 129,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "uOpoD0gGXcs",
+    "global_caption": "A woman and a man are talking as the wind blows, birds call, goats bleat, and chickens cluck",
+    "duration": 215,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Chickens are clucking while birds call in the background",
+        "timestamps": [
+          [
+            68,
+            71
+          ],
+          [
+            120,
+            122
+          ],
+          [
+            141,
+            144
+          ],
+          [
+            162,
+            165
+          ],
+          [
+            172,
+            174
+          ],
+          [
+            183,
+            185
+          ],
+          [
+            196,
+            198
+          ],
+          [
+            210,
+            212
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone whistles as birds sing",
+        "timestamps": [
+          [
+            138,
+            140
+          ],
+          [
+            70,
+            72
+          ],
+          [
+            116,
+            118
+          ],
+          [
+            120,
+            122
+          ],
+          [
+            126,
+            128
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uP_Dn2BFTHk",
+    "global_caption": "Music plays while a woman soothes a baby, the baby laughs, and a man's voice",
+    "duration": 152,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A woman's voice, a baby's voice, and a man's voice",
+        "timestamps": [
+          [
+            102,
+            120
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uXxVebHsGZ8",
+    "global_caption": "A man talks as a clock ticks, bells ring, and light objects bump together",
+    "duration": 300,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A clock ticks and a bell rings",
+        "timestamps": [
+          [
+            119,
+            125
+          ],
+          [
+            168,
+            200
+          ],
+          [
+            242,
+            266
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uYT5gxnyMWM",
+    "global_caption": "Two women talk as they spray something",
+    "duration": 71,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Someone sprayes",
+        "timestamps": [
+          [
+            16,
+            32
+          ],
+          [
+            52,
+            57
+          ]
+        ]
+      },
+      {
+        "local_caption": "A women screams loudly",
+        "timestamps": [
+          [
+            19,
+            26
+          ],
+          [
+            29,
+            30
+          ],
+          [
+            54,
+            57
+          ],
+          [
+            31,
+            33
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "ucQikcv96gM",
+    "global_caption": "A man is speaking while birds nearby are chirping or pecking at food",
+    "duration": 166,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A man is speaking while birds nearby are chirping and pecking at food",
+        "timestamps": [
+          [
+            2,
+            14
+          ],
+          [
+            42,
+            57
+          ],
+          [
+            80,
+            81
+          ],
+          [
+            87,
+            98
+          ],
+          [
+            103,
+            106
+          ],
+          [
+            131,
+            144
+          ],
+          [
+            162,
+            165
+          ],
+          [
+            123,
+            125
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "ugHJF0hfYkg",
+    "global_caption": "Helicopter rotors are spinning as the wind blows and a helicopter is flying",
+    "duration": 83,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "uiItxDsDMFI",
+    "global_caption": "A man is talking, sawing wood, and setting wood down",
+    "duration": 120,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Someone is walking on dirt and fallen leaves",
+        "timestamps": [
+          [
+            0,
+            7
+          ],
+          [
+            118,
+            120
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is sawing wood",
+        "timestamps": [
+          [
+            30,
+            35
+          ],
+          [
+            54,
+            71
+          ],
+          [
+            77,
+            109
+          ],
+          [
+            41,
+            47
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uiNuH51lzVY",
+    "global_caption": "A man speaks in a spot with the sound of water",
+    "duration": 158,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A man is speaking somewhere with water flowing nearby",
+        "timestamps": [
+          [
+            40,
+            64
+          ],
+          [
+            126,
+            147
+          ],
+          [
+            95,
+            98
+          ],
+          [
+            102,
+            105
+          ],
+          [
+            108,
+            123
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "ujjK7WUHxss",
+    "global_caption": "Many sheep are bleating where the wind is blowing",
+    "duration": 206,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "ukxt9I7eMMg",
+    "global_caption": "Frying sounds as a man and woman talk",
+    "duration": 111,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Someone is talking as something fries",
+        "timestamps": [
+          [
+            2,
+            31
+          ],
+          [
+            36,
+            61
+          ],
+          [
+            73,
+            95
+          ]
+        ]
+      },
+      {
+        "local_caption": "A woman is talking as metal clangs",
+        "timestamps": [
+          [
+            99,
+            100
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uln8131faVs",
+    "global_caption": "A boat is sailing as the wind blows",
+    "duration": 117,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "uqFtmnhuqA8",
+    "global_caption": "A machine is running, a door is opening and closing, and chimes are sounding",
+    "duration": 116,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A machine is running and chimes are sounding",
+        "timestamps": [
+          [
+            26,
+            33
+          ]
+        ]
+      },
+      {
+        "local_caption": "Door stays shut",
+        "timestamps": [
+          [
+            105,
+            107
+          ],
+          [
+            38,
+            39
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uzQnlJXBbOM",
+    "global_caption": "A man talks on the phone as beeps and ringtones play",
+    "duration": 150,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A man's voice is speaking",
+        "timestamps": [
+          [
+            0,
+            21
+          ],
+          [
+            31,
+            38
+          ],
+          [
+            54,
+            58
+          ],
+          [
+            69,
+            89
+          ],
+          [
+            100,
+            101
+          ],
+          [
+            114,
+            118
+          ],
+          [
+            118,
+            134
+          ],
+          [
+            108,
+            112
+          ],
+          [
+            92,
+            96
+          ],
+          [
+            40,
+            53
+          ],
+          [
+            138,
+            149
+          ]
+        ]
+      },
+      {
+        "local_caption": "Some electronic sounds",
+        "timestamps": [
+          [
+            16,
+            30
+          ],
+          [
+            56,
+            57
+          ],
+          [
+            117,
+            118
+          ],
+          [
+            60,
+            61
+          ],
+          [
+            65,
+            66
+          ],
+          [
+            68,
+            69
+          ],
+          [
+            74,
+            76
+          ]
+        ]
+      },
+      {
+        "local_caption": "A ringtone",
+        "timestamps": [
+          [
+            39,
+            53
+          ],
+          [
+            91,
+            98
+          ],
+          [
+            107,
+            114
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "v-wcQf4BDY0",
+    "global_caption": "Dogs are barking",
+    "duration": 168,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "v0wPrLBI3hg",
+    "global_caption": "Wind is blowing, several pigeons are cooing and flapping their wings, a man is speaking, and children's voices are in the background",
+    "duration": 229,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "v0x1odnXtP0",
+    "global_caption": "Typing sounds mix with mouse clicks in the background",
+    "duration": 300,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A dog is barking over typing sounds",
+        "timestamps": [
+          [
+            22,
+            49
+          ]
+        ]
+      },
+      {
+        "local_caption": "Mouse clicks echo in the background",
+        "timestamps": [
+          [
+            47,
+            49
+          ],
+          [
+            85,
+            98
+          ],
+          [
+            124,
+            131
+          ],
+          [
+            201,
+            202
+          ],
+          [
+            225,
+            228
+          ],
+          [
+            277,
+            278
+          ],
+          [
+            283,
+            286
+          ],
+          [
+            203,
+            204
+          ],
+          [
+            55,
+            56
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "v3EwremxU2w",
+    "global_caption": "Dog barking",
+    "duration": 105,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Someone is talking while a dog barks",
+        "timestamps": [
+          [
+            80,
+            82
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "v5cSxLaHADY",
+    "global_caption": "A plastic bag rustles open as pages are being flipped",
+    "duration": 152,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Someone's hand rustles against plastic",
+        "timestamps": [
+          [
+            1,
+            37
+          ]
+        ]
+      },
+      {
+        "local_caption": "Paper rustles softly",
+        "timestamps": [
+          [
+            44,
+            62
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "v7Pz4dWmggg",
+    "global_caption": "A man and a woman talk while a baby cries",
+    "duration": 73,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Someone talk as a baby cries",
+        "timestamps": [
+          [
+            26,
+            45
+          ],
+          [
+            57,
+            73
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man yells",
+        "timestamps": [
+          [
+            23,
+            27
+          ],
+          [
+            55,
+            57
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "v8vMLTp5Dww",
+    "global_caption": "Rain is falling and the wind is blowing while a man is driving and talking",
+    "duration": 299,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A man is speaking inside a moving car while rain falls outside, with wind and a motorcycle passing by",
+        "timestamps": [
+          [
+            44,
+            52
+          ],
+          [
+            114,
+            126
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vBslzh7saPw",
+    "global_caption": "A man talking in the wind and an engine running",
+    "duration": 104,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Cars speeding by",
+        "timestamps": [
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      {
+        "local_caption": "An engine running amid wind blowing and a man's voice",
+        "timestamps": [
+          [
+            43,
+            66
+          ]
+        ]
+      },
+      {
+        "local_caption": "An engine running and wind blowing",
+        "timestamps": [
+          [
+            43,
+            100
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vH4z5OI5aNY",
+    "global_caption": "A man talks as engines run, objects clatter, a whistle blows, a crowd chats, brakes screech, and applause and cheers erupt",
+    "duration": 300,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A whistle blows and a crowd chats",
+        "timestamps": [
+          [
+            122,
+            125
+          ]
+        ]
+      },
+      {
+        "local_caption": "Engines run and a whistle blows",
+        "timestamps": [
+          [
+            53,
+            57
+          ],
+          [
+            188,
+            189
+          ]
+        ]
+      },
+      {
+        "local_caption": "Horns honk and engines run",
+        "timestamps": [
+          [
+            160,
+            163
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vJrjSeP17yE",
+    "global_caption": "Someone is snoring",
+    "duration": 137,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Someone snores as music plays",
+        "timestamps": [
+          [
+            4,
+            27
+          ]
+        ]
+      },
+      {
+        "local_caption": "A warning tone sounds as someone snores",
+        "timestamps": [
+          [
+            76,
+            80
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vSeGhaZt-aI",
+    "global_caption": "Music plays at the beginning and end while a man speaks as water flows in the background",
+    "duration": 216,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Music is playing",
+        "timestamps": [
+          [
+            0,
+            6
+          ],
+          [
+            202,
+            217
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man is speaking while water flows in the background",
+        "timestamps": [
+          [
+            44,
+            59
+          ],
+          [
+            112,
+            202
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vVNMuFixN_A",
+    "global_caption": "Waves are crashing as the wind blows",
+    "duration": 115,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "vW4x7S1VfQc",
+    "global_caption": "A woman is talking as she seasons and grills something, and music plays at the end",
+    "duration": 234,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "A woman is talking as she sprinkles something",
+        "timestamps": [
+          [
+            45,
+            61
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is grinding pepper",
+        "timestamps": [
+          [
+            79,
+            86
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone grills something",
+        "timestamps": [
+          [
+            143,
+            178
+          ]
+        ]
+      },
+      {
+        "local_caption": "A woman is talking and music is playing",
+        "timestamps": [
+          [
+            218,
+            224
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vYkA3cfXp5Q",
+    "global_caption": "A car engine hums as birds chirp",
+    "duration": 62,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "vZAqdHZ81yA",
+    "global_caption": "Birds and other animals call out as a man speaks and a motorcycle engine rumbles nearby",
+    "duration": 300,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Some kind of machine is making noise",
+        "timestamps": [
+          [
+            169,
+            174
+          ]
+        ]
+      },
+      {
+        "local_caption": "A motorcycle engine is making noise",
+        "timestamps": [
+          [
+            177,
+            267
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vZAw4apG0Es",
+    "global_caption": "People are talking as pieces of wood tap each other",
+    "duration": 131,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "v_OQfEIq_PY",
+    "global_caption": "An engine is running",
+    "duration": 80,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A whistle is blowing over engine sounds",
+        "timestamps": [
+          [
+            67,
+            69
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vaX_J_G3638",
+    "global_caption": "Horses are walking with their hooves clacking while people are talking",
+    "duration": 179,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Horses are walking with their hooves clacking while people are talking and a whistle is blowing",
+        "timestamps": [
+          [
+            79,
+            82
+          ]
+        ]
+      },
+      {
+        "local_caption": "Horses are walking with their hooves clacking while people are talking and music is playing",
+        "timestamps": [
+          [
+            143,
+            163
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vb1fPSD_I4c",
+    "global_caption": "A crowd plays in a pool, shouting and laughing",
+    "duration": 111,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "vbr9mHKc8WM",
+    "global_caption": "An engine hums as wind blows and water flows",
+    "duration": 74,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "An engine hums as water flows",
+        "timestamps": [
+          [
+            5,
+            18
+          ],
+          [
+            63,
+            70
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vcmWS_mvti8",
+    "global_caption": "Music is playing while a man is talking over the sound of bombs launching and exploding, and various sound effects",
+    "duration": 300,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Music is playing over a man talking and sound effects along with a bomb blast",
+        "timestamps": [
+          [
+            2,
+            4
+          ],
+          [
+            12,
+            14
+          ],
+          [
+            35,
+            37
+          ],
+          [
+            41,
+            50
+          ],
+          [
+            53,
+            55
+          ],
+          [
+            57,
+            59
+          ],
+          [
+            75,
+            78
+          ],
+          [
+            85,
+            86
+          ],
+          [
+            98,
+            100
+          ],
+          [
+            115,
+            117
+          ],
+          [
+            157,
+            160
+          ],
+          [
+            182,
+            185
+          ],
+          [
+            192,
+            195
+          ],
+          [
+            186,
+            189
+          ],
+          [
+            213,
+            215
+          ],
+          [
+            243,
+            246
+          ],
+          [
+            251,
+            253
+          ],
+          [
+            267,
+            269
+          ],
+          [
+            274,
+            276
+          ],
+          [
+            280,
+            285
+          ],
+          [
+            296,
+            300
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vddP56-ogds",
+    "global_caption": "A man is talking while birds are singing and water is flowing",
+    "duration": 76,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A man is talking while a vehicle is moving and birds are singing",
+        "timestamps": [
+          [
+            0,
+            11
+          ]
+        ]
+      },
+      {
+        "local_caption": "Birds are singing and water is flowing",
+        "timestamps": [
+          [
+            24,
+            71
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vdoxuJn9lTc",
+    "global_caption": "A woman is talking and burping",
+    "duration": 80,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A woman is speaking",
+        "timestamps": [
+          [
+            2,
+            7
+          ],
+          [
+            12,
+            16
+          ],
+          [
+            20,
+            24
+          ],
+          [
+            48,
+            50
+          ],
+          [
+            58,
+            68
+          ],
+          [
+            72,
+            79
+          ],
+          [
+            31,
+            34
+          ],
+          [
+            36,
+            42
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone burps",
+        "timestamps": [
+          [
+            9,
+            12
+          ],
+          [
+            17,
+            20
+          ],
+          [
+            45,
+            47
+          ],
+          [
+            53,
+            57
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man speaks",
+        "timestamps": [
+          [
+            69,
+            72
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vh30P49Po6s",
+    "global_caption": "A man talks as a duck quacks",
+    "duration": 70,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A duck quacks",
+        "timestamps": [
+          [
+            5,
+            69
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man is talking",
+        "timestamps": [
+          [
+            69,
+            70
+          ],
+          [
+            0,
+            5
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vimzuGQvdcU",
+    "global_caption": "A river flows while several people are talking",
+    "duration": 139,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Water flows as several people cheer",
+        "timestamps": [
+          [
+            136,
+            139
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "viuTg1M-dqg",
+    "global_caption": "Men and women are talking while a machine runs",
+    "duration": 181,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Something is being hit",
+        "timestamps": [
+          [
+            103,
+            107
+          ],
+          [
+            71,
+            75
+          ]
+        ]
+      },
+      {
+        "local_caption": "A cutting tool is being used",
+        "timestamps": [
+          [
+            115,
+            119
+          ]
+        ]
+      },
+      {
+        "local_caption": "A woman's voice rises above the mechanical noise",
+        "timestamps": [
+          [
+            165,
+            178
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vlJS7LN2XyM",
+    "global_caption": "A pendulum clock ticks as its bell rings",
+    "duration": 67,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A clock is ringing",
+        "timestamps": [
+          [
+            12,
+            23
+          ],
+          [
+            55,
+            64
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vlS6YMeWAPo",
+    "global_caption": "A sheep bleats, a man talks, and someone whistles",
+    "duration": 68,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A sheep bleats",
+        "timestamps": [
+          [
+            1,
+            2
+          ],
+          [
+            19,
+            20
+          ],
+          [
+            39,
+            40
+          ],
+          [
+            49,
+            51
+          ],
+          [
+            57,
+            59
+          ],
+          [
+            65,
+            67
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            6,
+            8
+          ],
+          [
+            10,
+            11
+          ],
+          [
+            24,
+            26
+          ],
+          [
+            30,
+            32
+          ],
+          [
+            36,
+            37
+          ],
+          [
+            52,
+            54
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is speaking",
+        "timestamps": [
+          [
+            16,
+            18
+          ],
+          [
+            31,
+            32
+          ],
+          [
+            61,
+            65
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone whistles",
+        "timestamps": [
+          [
+            41,
+            44
+          ],
+          [
+            34,
+            38
+          ],
+          [
+            46,
+            48
+          ],
+          [
+            52,
+            56
+          ],
+          [
+            59,
+            64
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vmrxwuAMb2I",
+    "global_caption": "A dog barks while a woman laughs, blows air, and whistles",
+    "duration": 66,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Someone blows air as a dog barks",
+        "timestamps": [
+          [
+            33,
+            37
+          ],
+          [
+            43,
+            47
+          ],
+          [
+            57,
+            60
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vqZuVbG6-HI",
+    "global_caption": "Helicopter blades are spinning and a helicopter is flying while people are talking",
+    "duration": 180,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "People are talking and car horns are honking",
+        "timestamps": [
+          [
+            29,
+            31
+          ]
+        ]
+      },
+      {
+        "local_caption": "An engine is running",
+        "timestamps": [
+          [
+            38,
+            178
+          ]
+        ]
+      },
+      {
+        "local_caption": "A helicopter is flying",
+        "timestamps": [
+          [
+            153,
+            173
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vr8ZXjEBhMQ",
+    "global_caption": "A man is riding a motorcycle while speaking",
+    "duration": 235,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A man is laughing",
+        "timestamps": [
+          [
+            119,
+            120
+          ],
+          [
+            126,
+            128
+          ]
+        ]
+      },
+      {
+        "local_caption": "A car brakes",
+        "timestamps": [
+          [
+            122,
+            123
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vveS8HT7Uog",
+    "global_caption": "A man is scraping something and talking",
+    "duration": 205,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Something is being scraped",
+        "timestamps": [
+          [
+            74,
+            82
+          ],
+          [
+            132,
+            145
+          ],
+          [
+            86,
+            93
+          ],
+          [
+            95,
+            102
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man is talking",
+        "timestamps": [
+          [
+            103,
+            131
+          ],
+          [
+            146,
+            205
+          ],
+          [
+            1,
+            73
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vx1gfpZnjAM",
+    "global_caption": "A river flows, birds are singing, and music is playing",
+    "duration": 230,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "vzceMbkl_Wc",
+    "global_caption": "Several men laugh and chat while water runs from the tap",
+    "duration": 237,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Two men chat and laugh as water pours from the tap",
+        "timestamps": [
+          [
+            0,
+            23
+          ]
+        ]
+      },
+      {
+        "local_caption": "Water is running from a faucet as a man talks",
+        "timestamps": [
+          [
+            167,
+            184
+          ]
+        ]
+      },
+      {
+        "local_caption": "A door closes, a man laughs, and the door opens",
+        "timestamps": [
+          [
+            224,
+            225
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vzxHnu-SFEw",
+    "global_caption": "While several people talk, a woman works as she speaks",
+    "duration": 149,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Several people talking, a woman's voice and the sound of scissors being used",
+        "timestamps": [
+          [
+            46,
+            51
+          ],
+          [
+            55,
+            57
+          ]
+        ]
+      },
+      {
+        "local_caption": "While several people are talking, a woman files something as she speaks",
+        "timestamps": [
+          [
+            79,
+            146
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "w0xsN8_X18Y",
+    "global_caption": "Music is playing with a man's voice and car sounds in the background",
+    "duration": 106,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Music and car sounds play",
+        "timestamps": [
+          [
+            17,
+            19
+          ],
+          [
+            24,
+            26
+          ],
+          [
+            30,
+            38
+          ],
+          [
+            52,
+            55
+          ],
+          [
+            66,
+            72
+          ],
+          [
+            86,
+            91
+          ],
+          [
+            75,
+            81
+          ],
+          [
+            94,
+            96
+          ]
+        ]
+      },
+      {
+        "local_caption": "Rain falls and a man talks as music plays",
+        "timestamps": [
+          [
+            42,
+            47
+          ],
+          [
+            56,
+            61
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "w1ir-sZ3Im8",
+    "global_caption": "Wind and water sounds play",
+    "duration": 106,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "w2bYrCVLT60",
+    "global_caption": "A man is talking while ducks are quacking",
+    "duration": 139,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "A man is talking",
+        "timestamps": [
+          [
+            2,
+            62
+          ],
+          [
+            84,
+            89
+          ],
+          [
+            106,
+            110
+          ],
+          [
+            125,
+            130
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man is talking while ducks are quacking",
+        "timestamps": [
+          [
+            27,
+            62
+          ],
+          [
+            84,
+            89
+          ],
+          [
+            106,
+            110
+          ],
+          [
+            125,
+            130
+          ]
+        ]
+      },
+      {
+        "local_caption": "Ducks are quacking",
+        "timestamps": [
+          [
+            27,
+            130
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "w2htir_si7g",
+    "global_caption": "Two people are talking, someone is whistling, and another person is singing",
+    "duration": 193,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Someone is whistling and another person is singing",
+        "timestamps": [
+          [
+            68,
+            91
+          ],
+          [
+            147,
+            160
+          ],
+          [
+            32,
+            36
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music is playing",
+        "timestamps": [
+          [
+            185,
+            193
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is whistling",
+        "timestamps": [
+          [
+            121,
+            160
+          ],
+          [
+            29,
+            37
+          ],
+          [
+            42,
+            53
+          ],
+          [
+            58,
+            91
+          ],
+          [
+            96,
+            116
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "w5W_5Kqtc8E",
+    "global_caption": "A boat is moving through the water as the wind blows, with a plane flying above and people cheering and applauding",
+    "duration": 181,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "The engine of a boat rumbles",
+        "timestamps": [
+          [
+            0,
+            56
+          ]
+        ]
+      },
+      {
+        "local_caption": "A boat is sailing",
+        "timestamps": [
+          [
+            57,
+            86
+          ],
+          [
+            124,
+            173
+          ],
+          [
+            175,
+            178
+          ]
+        ]
+      },
+      {
+        "local_caption": "People cheer",
+        "timestamps": [
+          [
+            108,
+            113
+          ]
+        ]
+      },
+      {
+        "local_caption": "An airplane is flying",
+        "timestamps": [
+          [
+            114,
+            124
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "w6RTHR6AeAg",
+    "global_caption": "Birds, an owl, and some animal are calling",
+    "duration": 66,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Birds are chirping",
+        "timestamps": [
+          [
+            11,
+            45
+          ]
+        ]
+      },
+      {
+        "local_caption": "An owl is hooting",
+        "timestamps": [
+          [
+            28,
+            45
+          ]
+        ]
+      },
+      {
+        "local_caption": "Some animal is making a noise",
+        "timestamps": [
+          [
+            45,
+            53
+          ],
+          [
+            56,
+            64
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "w8uLijTqtlU",
+    "global_caption": "In a place with strong wind and waves, someone is talking",
+    "duration": 213,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "w9lpbUn0hPc",
+    "global_caption": "Several people are talking and shouting",
+    "duration": 257,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Wind blows and something is being sprayed",
+        "timestamps": [
+          [
+            36,
+            37
+          ],
+          [
+            51,
+            52
+          ],
+          [
+            81,
+            82
+          ],
+          [
+            96,
+            98
+          ],
+          [
+            118,
+            121
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wDVMhEdTiVw",
+    "global_caption": "Birds chirping, a man and a woman hunt birds by the water using guns and whistles",
+    "duration": 199,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Someone is playing a flute",
+        "timestamps": [
+          [
+            6,
+            11
+          ],
+          [
+            20,
+            21
+          ],
+          [
+            41,
+            46
+          ],
+          [
+            123,
+            124
+          ],
+          [
+            129,
+            131
+          ],
+          [
+            156,
+            159
+          ]
+        ]
+      },
+      {
+        "local_caption": "Gunfire, birds are chirping",
+        "timestamps": [
+          [
+            27,
+            31
+          ],
+          [
+            60,
+            62
+          ],
+          [
+            193,
+            196
+          ],
+          [
+            140,
+            151
+          ],
+          [
+            158,
+            162
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is moving in the water",
+        "timestamps": [
+          [
+            32,
+            40
+          ],
+          [
+            62,
+            99
+          ],
+          [
+            194,
+            200
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wGKgwOP3h30",
+    "global_caption": "Several pigeons are cooing and flying while someone whistles",
+    "duration": 257,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Pigeons are cooing and a man is speaking",
+        "timestamps": [
+          [
+            2,
+            28
+          ]
+        ]
+      },
+      {
+        "local_caption": "Several pigeons are cooing while someone whistles",
+        "timestamps": [
+          [
+            183,
+            199
+          ],
+          [
+            44,
+            69
+          ],
+          [
+            93,
+            115
+          ],
+          [
+            130,
+            143
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wIJK3-5y0kA",
+    "global_caption": "A woman and a baby are talking",
+    "duration": 208,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A baby's voice",
+        "timestamps": [
+          [
+            1,
+            5
+          ],
+          [
+            33,
+            37
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            11,
+            16
+          ],
+          [
+            21,
+            22
+          ],
+          [
+            24,
+            26
+          ],
+          [
+            46,
+            51
+          ],
+          [
+            58,
+            62
+          ],
+          [
+            72,
+            75
+          ],
+          [
+            81,
+            83
+          ],
+          [
+            92,
+            95
+          ],
+          [
+            97,
+            99
+          ]
+        ]
+      },
+      {
+        "local_caption": "A kissing sound effect",
+        "timestamps": [
+          [
+            187,
+            189
+          ],
+          [
+            195,
+            199
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wP8ZKrlx3oA",
+    "global_caption": "Rain falls, sometimes tapping on the roof, while cars drive",
+    "duration": 188,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A horn blares and a car moves along while rain falls",
+        "timestamps": [
+          [
+            3,
+            7
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wPz6QRAkEb4",
+    "global_caption": "Birds are chirping near a moving car",
+    "duration": 199,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Birds chirp, a noise like a plane engine",
+        "timestamps": [
+          [
+            158,
+            170
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wRBHTgrbiwg",
+    "global_caption": "Birds call and wings buzz",
+    "duration": 95,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Wings are buzzing and a rooster is crowing",
+        "timestamps": [
+          [
+            10,
+            13
+          ]
+        ]
+      },
+      {
+        "local_caption": "Birds are chirping and a man is talking",
+        "timestamps": [
+          [
+            88,
+            89
+          ],
+          [
+            60,
+            61
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wTideSjRFS0",
+    "global_caption": "Sound from a TV, a woman talking, something being fried, and something being tapped",
+    "duration": 226,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "wWVxe57200I",
+    "global_caption": "A man and a woman talk as wind blows and birds chirp",
+    "duration": 132,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A woman is talking while the wind blows and birds are singing",
+        "timestamps": [
+          [
+            87,
+            91
+          ],
+          [
+            111,
+            114
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "weDbePuc-Xc",
+    "global_caption": "Music is playing, someone is talking, and frogs and insects are making noise as a story unfolds",
+    "duration": 83,
+    "num_moments": 5,
+    "moments": [
+      {
+        "local_caption": "An insect is flying and a drumroll is playing",
+        "timestamps": [
+          [
+            17,
+            19
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music is playing and someone is laughing",
+        "timestamps": [
+          [
+            20,
+            27
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music is playing, someone is crying",
+        "timestamps": [
+          [
+            37,
+            40
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music is playing, a car is approaching, and something is being run over",
+        "timestamps": [
+          [
+            66,
+            70
+          ]
+        ]
+      },
+      {
+        "local_caption": "Insects are flying and a bell is ringing",
+        "timestamps": [
+          [
+            73,
+            82
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wfHeoPDLMaM",
+    "global_caption": "Music plays at the start and ducks quacks",
+    "duration": 61,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Music is playing",
+        "timestamps": [
+          [
+            0,
+            8
+          ]
+        ]
+      },
+      {
+        "local_caption": "Ducks are quacking",
+        "timestamps": [
+          [
+            8,
+            61
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wicG6b_Yyus",
+    "global_caption": "A bus moves along the road",
+    "duration": 161,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "wl44ppID9ds",
+    "global_caption": "Water splashes as a wet dog shakes itself",
+    "duration": 91,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Water splashes",
+        "timestamps": [
+          [
+            0,
+            74
+          ],
+          [
+            79,
+            81
+          ]
+        ]
+      },
+      {
+        "local_caption": "A wet dog shakes itself",
+        "timestamps": [
+          [
+            76,
+            78
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wnNNcxAPwGQ",
+    "global_caption": "An engine running and a voice",
+    "duration": 103,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "An engine running and a man's voice",
+        "timestamps": [
+          [
+            33,
+            37
+          ],
+          [
+            75,
+            101
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man's voice and applause over an engine running",
+        "timestamps": [
+          [
+            92,
+            101
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wnpJndXuxLc",
+    "global_caption": "A train rushes by with its whistle sounding, and a steam engine moves along releasing clouds of steam",
+    "duration": 134,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A train horn is sounding",
+        "timestamps": [
+          [
+            1,
+            3
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            9,
+            13
+          ],
+          [
+            14,
+            27
+          ],
+          [
+            28,
+            31
+          ],
+          [
+            32,
+            40
+          ],
+          [
+            45,
+            49
+          ],
+          [
+            54,
+            55
+          ],
+          [
+            62,
+            72
+          ],
+          [
+            73,
+            76
+          ],
+          [
+            78,
+            80
+          ],
+          [
+            81,
+            85
+          ],
+          [
+            87,
+            88
+          ],
+          [
+            89,
+            92
+          ],
+          [
+            93,
+            96
+          ],
+          [
+            97,
+            102
+          ],
+          [
+            104,
+            106
+          ],
+          [
+            41,
+            43
+          ],
+          [
+            56,
+            61
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wqZ135_Ssz0",
+    "global_caption": "A man and a woman talk as wind blows, grass rustles, and an animal calls",
+    "duration": 71,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A man talks and laughs as wind blows and water flows",
+        "timestamps": [
+          [
+            13,
+            16
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wqugJOvBkhY",
+    "global_caption": "A baby cries and laughs as music plays",
+    "duration": 68,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Music plays and a baby cries",
+        "timestamps": [
+          [
+            5,
+            11
+          ],
+          [
+            28,
+            41
+          ],
+          [
+            54,
+            65
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wsHBIgzs9Fs",
+    "global_caption": "A man is talking while riding a motorcycle",
+    "duration": 210,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Horn sounds, engine noise",
+        "timestamps": [
+          [
+            16,
+            18
+          ],
+          [
+            26,
+            30
+          ],
+          [
+            49,
+            52
+          ]
+        ]
+      },
+      {
+        "local_caption": "Voices carry over the engine noise",
+        "timestamps": [
+          [
+            20,
+            21
+          ],
+          [
+            30,
+            33
+          ],
+          [
+            43,
+            45
+          ],
+          [
+            119,
+            126
+          ],
+          [
+            169,
+            184
+          ],
+          [
+            54,
+            60
+          ],
+          [
+            68,
+            71
+          ],
+          [
+            81,
+            89
+          ],
+          [
+            74,
+            78
+          ],
+          [
+            92,
+            111
+          ],
+          [
+            133,
+            135
+          ],
+          [
+            142,
+            144
+          ],
+          [
+            188,
+            190
+          ],
+          [
+            197,
+            208
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wtDqrBygTcU",
+    "global_caption": "A few men are talking inside a ship as it sails",
+    "duration": 292,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "wudZTNBtVqc",
+    "global_caption": "Wind is blowing, a car engine is running, and a car is driving by",
+    "duration": 92,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A car engine is running",
+        "timestamps": [
+          [
+            4,
+            91
+          ]
+        ]
+      },
+      {
+        "local_caption": "Wind is blowing and a car is driving",
+        "timestamps": [
+          [
+            62,
+            92
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wulOEFdECWs",
+    "global_caption": "A rainstorm rages",
+    "duration": 71,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Rain falls as thunder rumbles",
+        "timestamps": [
+          [
+            6,
+            15
+          ],
+          [
+            35,
+            50
+          ],
+          [
+            58,
+            71
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wwyfGO2J__4",
+    "global_caption": "People are talking, a camera is focusing, and people are applauding",
+    "duration": 121,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "People are talking and a man is speaking into a microphone",
+        "timestamps": [
+          [
+            0,
+            4
+          ],
+          [
+            102,
+            107
+          ]
+        ]
+      },
+      {
+        "local_caption": "People are applauding",
+        "timestamps": [
+          [
+            88,
+            94
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wyllXV6PjKo",
+    "global_caption": "A child is crying while several people are talking",
+    "duration": 78,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "wz7N8YRy74I",
+    "global_caption": "As the wind blows, several people chat together",
+    "duration": 133,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A rooster crows",
+        "timestamps": [
+          [
+            31,
+            34
+          ],
+          [
+            71,
+            74
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wzXPRI7eXOM",
+    "global_caption": "An airplane engine is running, wind is blowing, and a man's voice",
+    "duration": 150,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A man's voice, an engine noise",
+        "timestamps": [
+          [
+            0,
+            2
+          ],
+          [
+            39,
+            51
+          ],
+          [
+            59,
+            62
+          ],
+          [
+            80,
+            85
+          ],
+          [
+            96,
+            110
+          ],
+          [
+            126,
+            131
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x-Yx0rqr1vY",
+    "global_caption": "Music plays while frogs croak and a child talks with someone",
+    "duration": 180,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Music is playing as frogs croak",
+        "timestamps": [
+          [
+            4,
+            26
+          ],
+          [
+            64,
+            68
+          ],
+          [
+            94,
+            98
+          ],
+          [
+            126,
+            130
+          ],
+          [
+            40,
+            54
+          ]
+        ]
+      },
+      {
+        "local_caption": "Frogs are croaking while the river flows",
+        "timestamps": [
+          [
+            130,
+            148
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music is playing",
+        "timestamps": [
+          [
+            149,
+            180
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x-gIWB__rIE",
+    "global_caption": "A man is cooking and talking at the same time",
+    "duration": 256,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "Flames are burning",
+        "timestamps": [
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is grinding pepper amid background noise",
+        "timestamps": [
+          [
+            217,
+            218
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man is talking and chopping with a knife amid background noise",
+        "timestamps": [
+          [
+            65,
+            66
+          ],
+          [
+            79,
+            96
+          ],
+          [
+            224,
+            227
+          ],
+          [
+            70,
+            72
+          ]
+        ]
+      },
+      {
+        "local_caption": "Something is being scraped amid background noise",
+        "timestamps": [
+          [
+            120,
+            137
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x4a9YGIw4ok",
+    "global_caption": "Someone keeps flushing the toilet",
+    "duration": 188,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Pressing the lever sends water rushing through the toilet",
+        "timestamps": [
+          [
+            11,
+            22
+          ],
+          [
+            34,
+            37
+          ],
+          [
+            51,
+            60
+          ],
+          [
+            72,
+            84
+          ],
+          [
+            97,
+            109
+          ],
+          [
+            118,
+            125
+          ],
+          [
+            150,
+            154
+          ],
+          [
+            164,
+            183
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x4dZyf9Gbj0",
+    "global_caption": "A woman is talking while sniffling and sneezing",
+    "duration": 179,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A woman is sneezing, sniffling",
+        "timestamps": [
+          [
+            30,
+            33
+          ],
+          [
+            85,
+            88
+          ],
+          [
+            39,
+            41
+          ],
+          [
+            46,
+            48
+          ],
+          [
+            57,
+            59
+          ],
+          [
+            64,
+            67
+          ],
+          [
+            100,
+            104
+          ],
+          [
+            109,
+            112
+          ],
+          [
+            121,
+            125
+          ],
+          [
+            133,
+            137
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x5cuQjOdM3E",
+    "global_caption": "A woman's voice and a cat meowing",
+    "duration": 102,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "x5eIC7S0fbg",
+    "global_caption": "A man is talking and machinery is making noise",
+    "duration": 287,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Someone uses a machine",
+        "timestamps": [
+          [
+            68,
+            105
+          ],
+          [
+            115,
+            125
+          ],
+          [
+            179,
+            190
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x6ijhqRY38s",
+    "global_caption": "A man cooks and talks at the same time, using a pepper mill and aluminum foil among other utensils",
+    "duration": 285,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A man grinds pepper as he speaks",
+        "timestamps": [
+          [
+            50,
+            54
+          ],
+          [
+            101,
+            109
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is grinding a pepper mill and talking",
+        "timestamps": [
+          [
+            82,
+            156
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is cutting something with a kitchen knife",
+        "timestamps": [
+          [
+            208,
+            215
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xDsO5LiaaAY",
+    "global_caption": "A man is talking over the sound of a motor",
+    "duration": 256,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "The sound of a motor",
+        "timestamps": [
+          [
+            5,
+            28
+          ],
+          [
+            32,
+            67
+          ],
+          [
+            70,
+            106
+          ],
+          [
+            110,
+            132
+          ],
+          [
+            135,
+            150
+          ],
+          [
+            155,
+            191
+          ],
+          [
+            197,
+            238
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xKB8O8LTs6s",
+    "global_caption": "Music plays, something explodes, and someone speaks",
+    "duration": 115,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Music is playing while sound effects play and a man is talking",
+        "timestamps": [
+          [
+            4,
+            19
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music plays, something explodes",
+        "timestamps": [
+          [
+            49,
+            51
+          ],
+          [
+            54,
+            57
+          ],
+          [
+            69,
+            70
+          ],
+          [
+            78,
+            80
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music is playing while gunshots ring out",
+        "timestamps": [
+          [
+            68,
+            70
+          ],
+          [
+            73,
+            74
+          ],
+          [
+            76,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xMXvkIcaG0Y",
+    "global_caption": "A car engine runs and a car is driving",
+    "duration": 68,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "xNMovAf3o50",
+    "global_caption": "Music is playing and a man is singing",
+    "duration": 267,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "Rain falls and thunder rumbles",
+        "timestamps": [
+          [
+            0,
+            6
+          ],
+          [
+            257,
+            266
+          ],
+          [
+            103,
+            122
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music is playing",
+        "timestamps": [
+          [
+            7,
+            257
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music is playing and a man is singing",
+        "timestamps": [
+          [
+            27,
+            103
+          ],
+          [
+            123,
+            257
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xOZfdgAgJ9o",
+    "global_caption": "A woman cries, laughs, and talks with another woman",
+    "duration": 91,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "xSKJGCItUWE",
+    "global_caption": "A motor runs while a man and child talk",
+    "duration": 99,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Voices over a motor running",
+        "timestamps": [
+          [
+            0,
+            6
+          ],
+          [
+            18,
+            23
+          ],
+          [
+            32,
+            35
+          ],
+          [
+            96,
+            99
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xSN_cBFt-PI",
+    "global_caption": "A clock is ticking, a bell is ringing, a machine is running, and chimes are sounding",
+    "duration": 126,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A clock is ticking and chiming",
+        "timestamps": [
+          [
+            11,
+            40
+          ],
+          [
+            74,
+            79
+          ],
+          [
+            92,
+            99
+          ],
+          [
+            119,
+            122
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xVzetIIzS9c",
+    "global_caption": "Ambulances passing, sirens blaring",
+    "duration": 104,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Siren amid cars passing",
+        "timestamps": [
+          [
+            23,
+            31
+          ],
+          [
+            46,
+            60
+          ],
+          [
+            87,
+            104
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xZepNM9qcRA",
+    "global_caption": "A man is speaking while wind blows, a motorcycle engine runs, and cars drive",
+    "duration": 177,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A man is speaking while a motorcycle engine runs",
+        "timestamps": [
+          [
+            0,
+            6
+          ],
+          [
+            12,
+            38
+          ],
+          [
+            48,
+            73
+          ],
+          [
+            81,
+            103
+          ],
+          [
+            126,
+            148
+          ],
+          [
+            172,
+            176
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x_l2PIWyXaM",
+    "global_caption": "A car passes, a woman and child are talking, birds chirp, and a man sings along with the music",
+    "duration": 253,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Car noise and music play together",
+        "timestamps": [
+          [
+            10,
+            31
+          ],
+          [
+            57,
+            76
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man sings along with the music",
+        "timestamps": [
+          [
+            57,
+            75
+          ],
+          [
+            85,
+            151
+          ],
+          [
+            171,
+            246
+          ],
+          [
+            10,
+            31
+          ]
+        ]
+      },
+      {
+        "local_caption": "A child talks as birds chirp",
+        "timestamps": [
+          [
+            51,
+            57
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xeOp_6mV1DY",
+    "global_caption": "A woman and a man are talking while several ducks are quacking",
+    "duration": 91,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "xjvTpk2Zpr8",
+    "global_caption": "Engine noise, the wind blows",
+    "duration": 145,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "xmdGaCbvhFc",
+    "global_caption": "A man is operating a pump while speaking",
+    "duration": 153,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A man's voice, the sound of water",
+        "timestamps": [
+          [
+            78,
+            82
+          ]
+        ]
+      },
+      {
+        "local_caption": "The sound of metal moving the lever and the sound of water",
+        "timestamps": [
+          [
+            75,
+            153
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xmiUIOhtZyQ",
+    "global_caption": "A man is burping",
+    "duration": 81,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Burping sounds are present amid background noise",
+        "timestamps": [
+          [
+            6,
+            9
+          ],
+          [
+            13,
+            18
+          ],
+          [
+            21,
+            23
+          ],
+          [
+            25,
+            27
+          ],
+          [
+            34,
+            38
+          ],
+          [
+            40,
+            43
+          ],
+          [
+            31,
+            33
+          ],
+          [
+            44,
+            46
+          ],
+          [
+            49,
+            53
+          ],
+          [
+            54,
+            55
+          ],
+          [
+            58,
+            64
+          ],
+          [
+            70,
+            74
+          ],
+          [
+            67,
+            69
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is singing",
+        "timestamps": [
+          [
+            74,
+            81
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xtWeJ56-U-g",
+    "global_caption": "Someone is working on a computer",
+    "duration": 154,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Electronic sounds",
+        "timestamps": [
+          [
+            25,
+            35
+          ],
+          [
+            127,
+            137
+          ]
+        ]
+      },
+      {
+        "local_caption": "Someone is typing",
+        "timestamps": [
+          [
+            42,
+            73
+          ],
+          [
+            80,
+            86
+          ],
+          [
+            94,
+            97
+          ],
+          [
+            108,
+            119
+          ],
+          [
+            142,
+            152
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xvDdE3zNf8Y",
+    "global_caption": "A woman is speaking while opening something",
+    "duration": 196,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A woman is speaking and plastic is being handled",
+        "timestamps": [
+          [
+            51,
+            70
+          ],
+          [
+            121,
+            125
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xx3yKzrSOBI",
+    "global_caption": "A man talks, sirens, engine noises, a camera shutter, a woman's voice, and a creaking door",
+    "duration": 275,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A man talks, sirens, engine noises",
+        "timestamps": [
+          [
+            35,
+            64
+          ]
+        ]
+      },
+      {
+        "local_caption": "As a man talks, a door creaks open",
+        "timestamps": [
+          [
+            236,
+            243
+          ],
+          [
+            268,
+            273
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "y1saVTXsKwc",
+    "global_caption": "A man is talking while birds are chirping and a dog is barking and howling",
+    "duration": 115,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "y2ZBGpgbhHM",
+    "global_caption": "A man is talking where dogs and birds are making noise",
+    "duration": 104,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Dogs and birds are making noise",
+        "timestamps": [
+          [
+            0,
+            10
+          ],
+          [
+            13,
+            17
+          ],
+          [
+            26,
+            29
+          ],
+          [
+            40,
+            42
+          ],
+          [
+            43,
+            46
+          ],
+          [
+            48,
+            50
+          ],
+          [
+            51,
+            53
+          ],
+          [
+            62,
+            64
+          ],
+          [
+            67,
+            69
+          ],
+          [
+            74,
+            81
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man is talking",
+        "timestamps": [
+          [
+            11,
+            16
+          ],
+          [
+            69,
+            72
+          ],
+          [
+            20,
+            22
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "y4NpJekTMT8",
+    "global_caption": "A boy is on the phone with someone and beatboxing",
+    "duration": 221,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "Music is playing",
+        "timestamps": [
+          [
+            0,
+            29
+          ],
+          [
+            194,
+            221
+          ]
+        ]
+      },
+      {
+        "local_caption": "Talking on the phone",
+        "timestamps": [
+          [
+            75,
+            77
+          ],
+          [
+            33,
+            35
+          ],
+          [
+            37,
+            39
+          ],
+          [
+            80,
+            82
+          ],
+          [
+            85,
+            87
+          ],
+          [
+            88,
+            90
+          ],
+          [
+            114,
+            115
+          ]
+        ]
+      },
+      {
+        "local_caption": "Burping",
+        "timestamps": [
+          [
+            71,
+            73
+          ]
+        ]
+      },
+      {
+        "local_caption": "A boy is beatboxing",
+        "timestamps": [
+          [
+            119,
+            123
+          ],
+          [
+            124,
+            128
+          ],
+          [
+            132,
+            133
+          ],
+          [
+            171,
+            172
+          ],
+          [
+            185,
+            187
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yDoT73BWsdA",
+    "global_caption": "Cars are frequently braking as they drive by, with occasional voices in the background",
+    "duration": 273,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "The sound of a car hitting the breaks as it drives by over the sound of laughter",
+        "timestamps": [
+          [
+            93,
+            94
+          ],
+          [
+            178,
+            184
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yHeVV-xeOxQ",
+    "global_caption": "A woman is talking while milking a cow",
+    "duration": 171,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A woman is talking and a rooster crows",
+        "timestamps": [
+          [
+            2,
+            5
+          ],
+          [
+            23,
+            26
+          ]
+        ]
+      },
+      {
+        "local_caption": "Milking a cow",
+        "timestamps": [
+          [
+            79,
+            88
+          ],
+          [
+            91,
+            165
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yHtbLI6kxAc",
+    "global_caption": "Several pigeons coo and flutter about as a woman and child chat together",
+    "duration": 133,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "While a woman talks, a horn blares and pigeons take flight",
+        "timestamps": [
+          [
+            126,
+            130
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yKKOHg5xlPE",
+    "global_caption": "A man is walking and talking as cars pass by",
+    "duration": 137,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "A door opens and closes",
+        "timestamps": [
+          [
+            102,
+            104
+          ],
+          [
+            113,
+            115
+          ],
+          [
+            23,
+            24
+          ],
+          [
+            70,
+            72
+          ],
+          [
+            74,
+            76
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yLCORCnd35Q",
+    "global_caption": "A plane engine runs and the plane taxis and takes off",
+    "duration": 91,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "An airplane flies overhead while someone plays an instrument",
+        "timestamps": [
+          [
+            83,
+            90
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yRx9txMcBl0",
+    "global_caption": "A driving game with cars",
+    "duration": 247,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "A horn sounds",
+        "timestamps": [
+          [
+            8,
+            11
+          ],
+          [
+            108,
+            109
+          ],
+          [
+            110,
+            113
+          ],
+          [
+            126,
+            128
+          ],
+          [
+            191,
+            193
+          ]
+        ]
+      },
+      {
+        "local_caption": "A car engine and brakes",
+        "timestamps": [
+          [
+            38,
+            41
+          ],
+          [
+            45,
+            51
+          ]
+        ]
+      },
+      {
+        "local_caption": "Engine noise and game audio",
+        "timestamps": [
+          [
+            52,
+            53
+          ],
+          [
+            222,
+            223
+          ]
+        ]
+      },
+      {
+        "local_caption": "Engine noise blends with something crashing into an object",
+        "timestamps": [
+          [
+            62,
+            64
+          ],
+          [
+            85,
+            87
+          ],
+          [
+            107,
+            109
+          ],
+          [
+            117,
+            119
+          ],
+          [
+            132,
+            134
+          ],
+          [
+            138,
+            140
+          ],
+          [
+            162,
+            164
+          ],
+          [
+            172,
+            174
+          ],
+          [
+            189,
+            190
+          ],
+          [
+            195,
+            200
+          ],
+          [
+            217,
+            219
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yUsCyVRXMoY",
+    "global_caption": "A machine is running",
+    "duration": 113,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Machine noise",
+        "timestamps": [
+          [
+            14,
+            24
+          ],
+          [
+            36,
+            47
+          ],
+          [
+            76,
+            111
+          ],
+          [
+            49,
+            67
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yVPZ2MNWpms",
+    "global_caption": "A plane is taking off as the wind blows",
+    "duration": 122,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "yVumC9TGknc",
+    "global_caption": "Bird-like effects play, wind blows, and someone digs in the dirt",
+    "duration": 62,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Bird-like chirping effects",
+        "timestamps": [
+          [
+            0,
+            44
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yW6FWLSLkx4",
+    "global_caption": "A woman is talking",
+    "duration": 97,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A woman is talking",
+        "timestamps": [
+          [
+            4,
+            60
+          ],
+          [
+            68,
+            82
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music is playing",
+        "timestamps": [
+          [
+            83,
+            97
+          ],
+          [
+            60,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yaln9y8I7ms",
+    "global_caption": "A boy is talking and playing indoors while using various appliances",
+    "duration": 270,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "With music featuring drums playing, a boy is talking",
+        "timestamps": [
+          [
+            8,
+            34
+          ]
+        ]
+      },
+      {
+        "local_caption": "Water flows",
+        "timestamps": [
+          [
+            231,
+            240
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yeFvk9x0wWI",
+    "global_caption": "Birds are chirping and something is popping",
+    "duration": 79,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Something pops",
+        "timestamps": [
+          [
+            29,
+            31
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yhQ2Lg-7qDY",
+    "global_caption": "Music plays while a woman grills ingredients and chats",
+    "duration": 160,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Something is being grilled",
+        "timestamps": [
+          [
+            49,
+            153
+          ]
+        ]
+      },
+      {
+        "local_caption": "A woman is kneading meat while talking",
+        "timestamps": [
+          [
+            10,
+            14
+          ],
+          [
+            27,
+            39
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yiUDYRSJpJI",
+    "global_caption": "A car speeds by and explosions echo as a helicopter hovers, with a man's voice rising above the blasts",
+    "duration": 260,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A car speeds by and explosions echo",
+        "timestamps": [
+          [
+            5,
+            41
+          ],
+          [
+            61,
+            107
+          ],
+          [
+            178,
+            186
+          ],
+          [
+            217,
+            260
+          ]
+        ]
+      },
+      {
+        "local_caption": "A helicopter flies",
+        "timestamps": [
+          [
+            106,
+            176
+          ],
+          [
+            190,
+            215
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yks4cLgIDMc",
+    "global_caption": "Male family members spend time outdoors in nature, drive somewhere, have conversations with others inside the house, and then head out again",
+    "duration": 297,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "While birds are chirping, a man and children talk, a car door shuts in the background, and the engine starts",
+        "timestamps": [
+          [
+            9,
+            14
+          ]
+        ]
+      },
+      {
+        "local_caption": "With the river flowing, a kid is shouting",
+        "timestamps": [
+          [
+            94,
+            103
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music plays as a car moves along",
+        "timestamps": [
+          [
+            138,
+            153
+          ]
+        ]
+      },
+      {
+        "local_caption": "Game sounds and other voices",
+        "timestamps": [
+          [
+            281,
+            290
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yswmmRZFItk",
+    "global_caption": "Several frogs croak",
+    "duration": 70,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Several frogs croak",
+        "timestamps": [
+          [
+            3,
+            67
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "z4VCMzobZbI",
+    "global_caption": "A man is making pasta, talking, and using a mixer",
+    "duration": 182,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A mixer is running",
+        "timestamps": [
+          [
+            67,
+            74
+          ],
+          [
+            92,
+            97
+          ]
+        ]
+      },
+      {
+        "local_caption": "Something is being put into a heated pot and left to simmer",
+        "timestamps": [
+          [
+            100,
+            108
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "z4uELRI6p08",
+    "global_caption": "Someone is laughing",
+    "duration": 74,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Someone is laughing",
+        "timestamps": [
+          [
+            0,
+            29
+          ],
+          [
+            48,
+            52
+          ],
+          [
+            32,
+            37
+          ],
+          [
+            39,
+            41
+          ],
+          [
+            53,
+            59
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "z5iUE5h0EPs",
+    "global_caption": "Someone is talking and footsteps are heard while birds and goats are making noise",
+    "duration": 89,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "birds and goats are making noise",
+        "timestamps": [
+          [
+            0,
+            1
+          ],
+          [
+            6,
+            8
+          ],
+          [
+            11,
+            12
+          ],
+          [
+            15,
+            16
+          ],
+          [
+            19,
+            22
+          ],
+          [
+            25,
+            26
+          ],
+          [
+            33,
+            34
+          ],
+          [
+            40,
+            42
+          ],
+          [
+            56,
+            61
+          ],
+          [
+            66,
+            68
+          ],
+          [
+            73,
+            74
+          ],
+          [
+            78,
+            82
+          ]
+        ]
+      },
+      {
+        "local_caption": "Goats and chickens are making noise while birds are flying",
+        "timestamps": [
+          [
+            59,
+            61
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "z9-3K1PFMjw",
+    "global_caption": "A man talks while pushing buttons, a machine responds with a woman's voice, a warning beeps and a phone rings",
+    "duration": 60,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Someone pushes buttons",
+        "timestamps": [
+          [
+            1,
+            12
+          ],
+          [
+            17,
+            19
+          ],
+          [
+            28,
+            29
+          ],
+          [
+            37,
+            50
+          ]
+        ]
+      },
+      {
+        "local_caption": "A warning beeps",
+        "timestamps": [
+          [
+            53,
+            60
+          ]
+        ]
+      },
+      {
+        "local_caption": "A warning beeps and a phone rings as a machine responds with a woman's voice",
+        "timestamps": [
+          [
+            58,
+            61
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zAYW_RjbHHI",
+    "global_caption": "Music is playing while a man provides commentary, with engine and driving sounds in the background",
+    "duration": 153,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Music is playing",
+        "timestamps": [
+          [
+            6,
+            82
+          ],
+          [
+            128,
+            148
+          ]
+        ]
+      },
+      {
+        "local_caption": "Music is playing while a man provides commentary, with engine and driving sounds in the background",
+        "timestamps": [
+          [
+            15,
+            47
+          ],
+          [
+            61,
+            73
+          ]
+        ]
+      },
+      {
+        "local_caption": "Engine noise blends with the sound of a car driving",
+        "timestamps": [
+          [
+            15,
+            129
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zCrAfDfv6-A",
+    "global_caption": "A man is whistling and a chair creaks",
+    "duration": 66,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Whistling",
+        "timestamps": [
+          [
+            0,
+            61
+          ]
+        ]
+      },
+      {
+        "local_caption": "Something makes mechanical noises while someone is whistling",
+        "timestamps": [
+          [
+            34,
+            35
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man is talking",
+        "timestamps": [
+          [
+            62,
+            64
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zF8yoL0rkbI",
+    "global_caption": "Several cars drive past as the wind blows, a man talks, and horns honk",
+    "duration": 109,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A man is talking as cars drive by and wind blows",
+        "timestamps": [
+          [
+            16,
+            18
+          ],
+          [
+            39,
+            40
+          ],
+          [
+            20,
+            22
+          ],
+          [
+            89,
+            93
+          ],
+          [
+            102,
+            104
+          ]
+        ]
+      },
+      {
+        "local_caption": "Horns honk while cars drive past and the wind blows",
+        "timestamps": [
+          [
+            45,
+            51
+          ],
+          [
+            72,
+            73
+          ],
+          [
+            77,
+            79
+          ],
+          [
+            84,
+            85
+          ],
+          [
+            93,
+            94
+          ],
+          [
+            98,
+            99
+          ],
+          [
+            101,
+            102
+          ],
+          [
+            106,
+            107
+          ],
+          [
+            104,
+            105
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zTLVJCo4WEE",
+    "global_caption": "Two men talk as insects chirp and guns fire",
+    "duration": 72,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Two men talk as insects chirp, wind blows, and metal clangs",
+        "timestamps": [
+          [
+            0,
+            35
+          ]
+        ]
+      },
+      {
+        "local_caption": "Gunshots ring out and metal clangs as insects chirp",
+        "timestamps": [
+          [
+            44,
+            46
+          ],
+          [
+            55,
+            57
+          ],
+          [
+            49,
+            51
+          ],
+          [
+            59,
+            61
+          ],
+          [
+            63,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zU-oKUEckKo",
+    "global_caption": "A train passing by, horn blowing",
+    "duration": 103,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "A horn blows amid vehicle noise",
+        "timestamps": [
+          [
+            3,
+            7
+          ],
+          [
+            11,
+            17
+          ],
+          [
+            31,
+            33
+          ],
+          [
+            36,
+            38
+          ],
+          [
+            41,
+            68
+          ]
+        ]
+      },
+      {
+        "local_caption": "Railroad crossing sounds",
+        "timestamps": [
+          [
+            20,
+            34
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zY3icUyMdh8",
+    "global_caption": "Several people are talking inside a moving bus",
+    "duration": 300,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Dogs barking, a bus engine rumbles",
+        "timestamps": [
+          [
+            19,
+            26
+          ]
+        ]
+      },
+      {
+        "local_caption": "Amid voices, an engine starts up",
+        "timestamps": [
+          [
+            57,
+            58
+          ]
+        ]
+      },
+      {
+        "local_caption": "Several people are talking inside a moving bus",
+        "timestamps": [
+          [
+            154,
+            300
+          ],
+          [
+            101,
+            105
+          ],
+          [
+            123,
+            127
+          ],
+          [
+            131,
+            136
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zgUgkpk78xU",
+    "global_caption": "A train is moving along with a crossing bell and a whistle",
+    "duration": 208,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A train whistle sounds while a crossing bell is ringing",
+        "timestamps": [
+          [
+            24,
+            30
+          ],
+          [
+            41,
+            46
+          ],
+          [
+            55,
+            58
+          ],
+          [
+            62,
+            72
+          ]
+        ]
+      },
+      {
+        "local_caption": "A train whistle and a train moving while a crossing bell is ringing",
+        "timestamps": [
+          [
+            63,
+            72
+          ]
+        ]
+      },
+      {
+        "local_caption": "A train is moving while a crossing bell is ringing",
+        "timestamps": [
+          [
+            70,
+            209
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zhx6hoYrHeI",
+    "global_caption": "Motorcycle engine noise",
+    "duration": 213,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "zjTG0gaGCUI",
+    "global_caption": "Wind blows, an airplane engine noise",
+    "duration": 145,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "The output of the airplane engine gradually increases",
+        "timestamps": [
+          [
+            82,
+            98
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zk-xJGQU8-4",
+    "global_caption": "With music playing, a woman and a man are cooking and talking",
+    "duration": 271,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "With music playing, a woman and a man are talking as something sizzles and objects are being set down",
+        "timestamps": [
+          [
+            135,
+            194
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zl3OnWjr3Y4",
+    "global_caption": "As a man talks, wood creaks, laughter rings out, water flows, and someone clears their throat",
+    "duration": 300,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "Music plays",
+        "timestamps": [
+          [
+            0,
+            11
+          ]
+        ]
+      },
+      {
+        "local_caption": "A man laughs",
+        "timestamps": [
+          [
+            212,
+            214
+          ]
+        ]
+      },
+      {
+        "local_caption": "As a man talks, wood creaks",
+        "timestamps": [
+          [
+            225,
+            232
+          ],
+          [
+            244,
+            246
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zsLxS-uLJTw",
+    "global_caption": "A train blows its horn and passes as someone talks",
+    "duration": 86,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "Birds are chirping and a woman is making an announcement",
+        "timestamps": [
+          [
+            0,
+            15
+          ]
+        ]
+      },
+      {
+        "local_caption": "A train blows its horn and passes as someone talks",
+        "timestamps": [
+          [
+            20,
+            25
+          ],
+          [
+            42,
+            48
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zvmXKyAFq80",
+    "global_caption": "A car engine starts, a car drives, and birds chirp",
+    "duration": 62,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "A car engine runs and a door shuts",
+        "timestamps": [
+          [
+            2,
+            3
+          ]
+        ]
+      },
+      {
+        "local_caption": "Car engine sounds",
+        "timestamps": [
+          [
+            0,
+            26
+          ]
+        ]
+      },
+      {
+        "local_caption": "A car drives",
+        "timestamps": [
+          [
+            23,
+            26
+          ],
+          [
+            57,
+            62
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zwOBqeFTgiU",
+    "global_caption": "Two babies are crying",
+    "duration": 68,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "Two babies are crying while a woman is speaking",
+        "timestamps": [
+          [
+            40,
+            45
+          ],
+          [
+            53,
+            55
+          ]
+        ]
+      }
+    ]
+  }
+]

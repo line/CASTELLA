@@ -1,0 +1,7323 @@
+[
+  {
+    "yid": "rqfQRErjfk8",
+    "global_caption": "音楽が流れ、男性が歌い、観客が歓声を上げて拍手している",
+    "duration": 191,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "音楽が流れ、男性が歌っている",
+        "timestamps": [
+          [
+            4,
+            109
+          ],
+          [
+            122,
+            154
+          ]
+        ]
+      },
+      {
+        "local_caption": "大勢の観客の歓声と拍手がする",
+        "timestamps": [
+          [
+            169,
+            190
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "rwT__ERCUno",
+    "global_caption": "男性が話しながらバイクのエンジンをかける",
+    "duration": 154,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "金属の道具がぶつかる音がする",
+        "timestamps": [
+          [
+            52,
+            56
+          ],
+          [
+            64,
+            80
+          ],
+          [
+            86,
+            90
+          ]
+        ]
+      },
+      {
+        "local_caption": "エンジン音がする",
+        "timestamps": [
+          [
+            89,
+            154
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性の声とエンジン音がする",
+        "timestamps": [
+          [
+            105,
+            112
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "rwb6PSAee5Y",
+    "global_caption": "誰かがトイレの水を流している",
+    "duration": 74,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "ドアを開閉する音がする",
+        "timestamps": [
+          [
+            21,
+            26
+          ]
+        ]
+      },
+      {
+        "local_caption": "トイレの水が流れる音がする",
+        "timestamps": [
+          [
+            34,
+            46
+          ],
+          [
+            59,
+            71
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "rwtmaKiCcQU",
+    "global_caption": "エンジン音がする中、複数人が話し、スプレーを吹きかけている",
+    "duration": 77,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "エンジン音とスプレーの音がする",
+        "timestamps": [
+          [
+            25,
+            28
+          ],
+          [
+            29,
+            32
+          ],
+          [
+            36,
+            41
+          ],
+          [
+            42,
+            48
+          ],
+          [
+            50,
+            58
+          ],
+          [
+            59,
+            69
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "s3cT_DAj31g",
+    "global_caption": "男性が話しながら何かを作り、雪の上を歩いている",
+    "duration": 116,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "男性が話しながらコンロの火をつけている",
+        "timestamps": [
+          [
+            21,
+            23
+          ]
+        ]
+      },
+      {
+        "local_caption": "何かを煮ている",
+        "timestamps": [
+          [
+            32,
+            36
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性と女性と子どもが話しながらキャンディーを食べている",
+        "timestamps": [
+          [
+            64,
+            75
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "s4Uz1Ffgo04",
+    "global_caption": "車の走行音がする中、複数の人が会話している",
+    "duration": 240,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "車の走行音がする中、サイレンが鳴る",
+        "timestamps": [
+          [
+            0,
+            9
+          ],
+          [
+            156,
+            160
+          ],
+          [
+            233,
+            240
+          ]
+        ]
+      },
+      {
+        "local_caption": "車の走行音の中、クラクションが鳴る",
+        "timestamps": [
+          [
+            189,
+            191
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "s4tUs779vBA",
+    "global_caption": "何かの鳴き声と銃声、誰かの声と効果音がする",
+    "duration": 258,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "効果音と、銃声と男性の声がする",
+        "timestamps": [
+          [
+            157,
+            254
+          ],
+          [
+            51,
+            142
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "s7knHCFW82w",
+    "global_caption": "電車が警笛と鐘を鳴らしながら走っている",
+    "duration": 235,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "男性が話していて、電車の鐘が鳴る",
+        "timestamps": [
+          [
+            0,
+            13
+          ]
+        ]
+      },
+      {
+        "local_caption": "電車が警笛を鳴らしながら走っている",
+        "timestamps": [
+          [
+            15,
+            44
+          ],
+          [
+            70,
+            89
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sC_i_y7QS1U",
+    "global_caption": "バイクのエンジン音がする中、男性が話している",
+    "duration": 299,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "バイクのエンジン音がする中、男性が話している",
+        "timestamps": [
+          [
+            118,
+            300
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sCeWURVHfOM",
+    "global_caption": "振り子時計の音がする",
+    "duration": 94,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "sEprKHm8Sj8",
+    "global_caption": "車のレースが行われる中、時々観客の声や風の音、カメラのシャッター音、鳥の鳴き声がする",
+    "duration": 288,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "エンジン音が響く中、クラクションが鳴っている",
+        "timestamps": [
+          [
+            40,
+            45
+          ]
+        ]
+      },
+      {
+        "local_caption": "エンジン音が響く中、風の音と人々の声がして、誰かが笑っている",
+        "timestamps": [
+          [
+            221,
+            225
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sIXTftIuUgw",
+    "global_caption": "鳥の声がする場所で誰かが話している",
+    "duration": 104,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "風船がしぼむ音がする",
+        "timestamps": [
+          [
+            33,
+            35
+          ]
+        ]
+      },
+      {
+        "local_caption": "爆発音と叫び声がする",
+        "timestamps": [
+          [
+            81,
+            85
+          ]
+        ]
+      },
+      {
+        "local_caption": "誰かが口笛を吹いている",
+        "timestamps": [
+          [
+            85,
+            102
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sLkeqCDJIyw",
+    "global_caption": "誰かがいびきをかいている",
+    "duration": 193,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "誰かがいびきをかき、何かが落ちる音がする",
+        "timestamps": [
+          [
+            0,
+            1
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sNB8zxXneIM",
+    "global_caption": "複数のニワトリや鳥が鳴いている",
+    "duration": 98,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "複数のニワトリや鳥が鳴いている",
+        "timestamps": [
+          [
+            6,
+            93
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sOa7g-44Dag",
+    "global_caption": "男性が話しながら、何かを吹きかけている",
+    "duration": 107,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "男性の声と、何か機械音と吹きかける音がする",
+        "timestamps": [
+          [
+            8,
+            16
+          ],
+          [
+            27,
+            57
+          ],
+          [
+            62,
+            87
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sSMl2vc3e_k",
+    "global_caption": "いびきがする中、男性が話している",
+    "duration": 105,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "男性が話している",
+        "timestamps": [
+          [
+            0,
+            5
+          ],
+          [
+            66,
+            68
+          ],
+          [
+            93,
+            105
+          ]
+        ]
+      },
+      {
+        "local_caption": "いびきがする",
+        "timestamps": [
+          [
+            6,
+            104
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sTpirNYo8vQ",
+    "global_caption": "自動車が走っており、複数の男性が会話している",
+    "duration": 145,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "sYITalLZjj4",
+    "global_caption": "複数の鳥が鳴いている中、風が吹き、時々人の声やカメラのシャッター音がする",
+    "duration": 108,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "効果音が流れている",
+        "timestamps": [
+          [
+            0,
+            11
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sZuuj08Gr_I",
+    "global_caption": "女性が話しながら、オーブンやミキサーを使って何かを焼き、混ぜている",
+    "duration": 224,
+    "num_moments": 5,
+    "moments": [
+      {
+        "local_caption": "女性が話しながら何かをお皿で混ぜている",
+        "timestamps": [
+          [
+            27,
+            34
+          ],
+          [
+            85,
+            95
+          ],
+          [
+            113,
+            116
+          ]
+        ]
+      },
+      {
+        "local_caption": "何かをお皿で混ぜている",
+        "timestamps": [
+          [
+            147,
+            155
+          ],
+          [
+            113,
+            118
+          ],
+          [
+            84,
+            95
+          ],
+          [
+            27,
+            34
+          ]
+        ]
+      },
+      {
+        "local_caption": "何かをすくってミキサーに入れている",
+        "timestamps": [
+          [
+            161,
+            168
+          ]
+        ]
+      },
+      {
+        "local_caption": "ミキサーが動いている",
+        "timestamps": [
+          [
+            169,
+            178
+          ]
+        ]
+      },
+      {
+        "local_caption": "何かをザルでふるっている",
+        "timestamps": [
+          [
+            194,
+            206
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "s_apQIQUhFc",
+    "global_caption": "音楽が流れている中、男性が話して、銃声と水の流れる音がする",
+    "duration": 300,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "音楽が流れている",
+        "timestamps": [
+          [
+            4,
+            34
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れている中、銃声がする",
+        "timestamps": [
+          [
+            28,
+            30
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性の笑い声がする",
+        "timestamps": [
+          [
+            176,
+            178
+          ],
+          [
+            181,
+            183
+          ],
+          [
+            255,
+            257
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sd7x_Vssqlw",
+    "global_caption": "音楽が流れ、男性が話し、車がドリフトしながら走行している",
+    "duration": 127,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "男性が話し、車が走行している",
+        "timestamps": [
+          [
+            63,
+            69
+          ],
+          [
+            73,
+            81
+          ],
+          [
+            83,
+            88
+          ],
+          [
+            90,
+            97
+          ],
+          [
+            100,
+            105
+          ],
+          [
+            107,
+            109
+          ],
+          [
+            110,
+            112
+          ],
+          [
+            114,
+            120
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sd_XV-ylviw",
+    "global_caption": "音楽が流れる中、トイレの水が流れる音がする",
+    "duration": 299,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "トイレの水が流れる音がする",
+        "timestamps": [
+          [
+            11,
+            21
+          ],
+          [
+            42,
+            49
+          ],
+          [
+            110,
+            120
+          ],
+          [
+            145,
+            160
+          ],
+          [
+            24,
+            31
+          ],
+          [
+            53,
+            68
+          ],
+          [
+            73,
+            84
+          ],
+          [
+            89,
+            95
+          ],
+          [
+            178,
+            190
+          ],
+          [
+            215,
+            226
+          ],
+          [
+            255,
+            269
+          ]
+        ]
+      },
+      {
+        "local_caption": "ドアが軋む音がする",
+        "timestamps": [
+          [
+            229,
+            236
+          ],
+          [
+            269,
+            271
+          ],
+          [
+            273,
+            275
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "se87d6yxEOA",
+    "global_caption": "蒸気機関車が汽笛やベルを鳴らし走っている",
+    "duration": 256,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "汽車が汽笛を鳴らして走っている",
+        "timestamps": [
+          [
+            12,
+            22
+          ],
+          [
+            74,
+            80
+          ],
+          [
+            41,
+            47
+          ],
+          [
+            130,
+            134
+          ],
+          [
+            136,
+            140
+          ],
+          [
+            143,
+            150
+          ],
+          [
+            159,
+            163
+          ],
+          [
+            164,
+            169
+          ],
+          [
+            171,
+            174
+          ]
+        ]
+      },
+      {
+        "local_caption": "汽車が鐘を鳴らして走っている",
+        "timestamps": [
+          [
+            82,
+            150
+          ],
+          [
+            205,
+            240
+          ]
+        ]
+      },
+      {
+        "local_caption": "誰かの声と音楽が流れる",
+        "timestamps": [
+          [
+            190,
+            200
+          ]
+        ]
+      },
+      {
+        "local_caption": "蒸気のような音がする",
+        "timestamps": [
+          [
+            241,
+            255
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sfAvvZwdLCY",
+    "global_caption": "誰かがトイレの水を流している",
+    "duration": 60,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "トイレの水が流れている",
+        "timestamps": [
+          [
+            5,
+            11
+          ],
+          [
+            20,
+            30
+          ]
+        ]
+      },
+      {
+        "local_caption": "水が流れている",
+        "timestamps": [
+          [
+            45,
+            59
+          ],
+          [
+            20,
+            30
+          ],
+          [
+            5,
+            11
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sgAjFcKriHk",
+    "global_caption": "飛行機のエンジン音や駆動音を撮っている",
+    "duration": 241,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "飛行機のエンジンの轟音",
+        "timestamps": [
+          [
+            0,
+            132
+          ],
+          [
+            141,
+            190
+          ],
+          [
+            223,
+            241
+          ]
+        ]
+      },
+      {
+        "local_caption": "飛行機のエンジン音がする中で、声がする",
+        "timestamps": [
+          [
+            134,
+            140
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sjlVMgdGSK0",
+    "global_caption": "車のレースが行われ、時々人の声がする",
+    "duration": 108,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "slZLHwNbbt4",
+    "global_caption": "複数の電車が、警笛を鳴らし走っている",
+    "duration": 299,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "電車が警笛を鳴らし走っている",
+        "timestamps": [
+          [
+            5,
+            9
+          ],
+          [
+            217,
+            219
+          ],
+          [
+            272,
+            276
+          ],
+          [
+            25,
+            28
+          ],
+          [
+            31,
+            35
+          ],
+          [
+            51,
+            54
+          ],
+          [
+            59,
+            61
+          ],
+          [
+            64,
+            66
+          ],
+          [
+            119,
+            123
+          ],
+          [
+            148,
+            150
+          ],
+          [
+            154,
+            158
+          ],
+          [
+            178,
+            184
+          ]
+        ]
+      },
+      {
+        "local_caption": "風が吹いている中、鳥が鳴いていて、電車が警笛を鳴らし走っている",
+        "timestamps": [
+          [
+            178,
+            184
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "smGI3C1N_Zc",
+    "global_caption": "水道から水が流れ、誰かの足音と、扉を開閉する音がする",
+    "duration": 128,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "水が流れる",
+        "timestamps": [
+          [
+            5,
+            21
+          ],
+          [
+            30,
+            41
+          ],
+          [
+            63,
+            73
+          ],
+          [
+            96,
+            113
+          ]
+        ]
+      },
+      {
+        "local_caption": "扉を開閉している",
+        "timestamps": [
+          [
+            53,
+            55
+          ],
+          [
+            82,
+            83
+          ],
+          [
+            18,
+            20
+          ],
+          [
+            25,
+            29
+          ],
+          [
+            75,
+            76
+          ],
+          [
+            90,
+            91
+          ],
+          [
+            118,
+            120
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "snFy48Lv3r8",
+    "global_caption": "風が吹いている中、ボートが走っている",
+    "duration": 136,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "soTOh3zYJfY",
+    "global_caption": "車がドリフトしている",
+    "duration": 103,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "sofxkNWaP0s",
+    "global_caption": "風が吹いている中、飛行機が飛んでいて、男性と子どもが会話をしている",
+    "duration": 60,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "風が吹いている中、飛行機が飛んでいて、男性と子どもの声がする",
+        "timestamps": [
+          [
+            7,
+            11
+          ],
+          [
+            19,
+            26
+          ],
+          [
+            31,
+            35
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "spJCm8tD9Zo",
+    "global_caption": "ホワイトノイズがする中、男性と女性が話して、いびきの音、金属が擦れる音、犬が吠える音、鶏の鳴き声、物のぶつかる音、呼吸音がする",
+    "duration": 237,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "騒がしい音がする中、鶏の鳴き声がする",
+        "timestamps": [
+          [
+            152,
+            155
+          ],
+          [
+            157,
+            160
+          ],
+          [
+            176,
+            179
+          ],
+          [
+            87,
+            90
+          ],
+          [
+            140,
+            142
+          ]
+        ]
+      },
+      {
+        "local_caption": "騒がしい音がする中、笑い声がする",
+        "timestamps": [
+          [
+            234,
+            237
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sr1_Gfm0syI",
+    "global_caption": "牛の鳴き声がする人々が歓声を上げて、男性がマイクを使って話している",
+    "duration": 173,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "複数人が拍手をしている",
+        "timestamps": [
+          [
+            68,
+            73
+          ],
+          [
+            112,
+            117
+          ],
+          [
+            138,
+            143
+          ]
+        ]
+      },
+      {
+        "local_caption": "人々が歓声を上げている",
+        "timestamps": [
+          [
+            112,
+            117
+          ],
+          [
+            134,
+            142
+          ],
+          [
+            70,
+            75
+          ],
+          [
+            127,
+            130
+          ]
+        ]
+      },
+      {
+        "local_caption": "牛の鳴き声がする",
+        "timestamps": [
+          [
+            131,
+            134
+          ],
+          [
+            75,
+            77
+          ],
+          [
+            120,
+            123
+          ],
+          [
+            161,
+            167
+          ],
+          [
+            169,
+            171
+          ]
+        ]
+      },
+      {
+        "local_caption": "ブザーが鳴り、人々が歓声を上げて拍手をし、男性がマイクを使って話している",
+        "timestamps": [
+          [
+            150,
+            159
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "sxIvBMSavMQ",
+    "global_caption": "冒頭で音楽が流れ、複数の蜂の羽音がする中、男性が話している",
+    "duration": 300,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "音楽が流れている",
+        "timestamps": [
+          [
+            0,
+            16
+          ]
+        ]
+      },
+      {
+        "local_caption": "鳥が鳴いている中、男性が何かを吹きかけている",
+        "timestamps": [
+          [
+            38,
+            40
+          ],
+          [
+            66,
+            70
+          ],
+          [
+            75,
+            78
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "syyyCQcHSfQ",
+    "global_caption": "誰かがいびきをかいており、背後で音楽が流れ、時々自動車の走行音がする",
+    "duration": 107,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "誰かがいびきをかいており、背後で音楽が流れ、自動車の走行音がする",
+        "timestamps": [
+          [
+            37,
+            42
+          ],
+          [
+            77,
+            82
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "t25U-v4k4ts",
+    "global_caption": "男性と女性が話している中、蜜蜂の羽音、空気を吹き付ける音、鳥の鳴き声、風音、木材が当たる音、騒がしい音がする",
+    "duration": 180,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "騒がしい音がする中、空気を吹き付ける音がする",
+        "timestamps": [
+          [
+            0,
+            2
+          ],
+          [
+            11,
+            17
+          ]
+        ]
+      },
+      {
+        "local_caption": "騒がしい音がする中、木材が当たる音と蜜蜂の羽音がする",
+        "timestamps": [
+          [
+            33,
+            41
+          ],
+          [
+            92,
+            94
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "t4WCFbE0A50",
+    "global_caption": "風が吹いている中、男性と女性が話していて、蛇と牛の鳴き声がする",
+    "duration": 65,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "牛と何かの動物の鳴き声がする",
+        "timestamps": [
+          [
+            24,
+            35
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "t5ZbXbniOWk",
+    "global_caption": "ヘリコプターが飛んでいる",
+    "duration": 171,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "t69a8aRKhmc",
+    "global_caption": "鳩が鳴き、飛んでいる中、二人の男性が話している",
+    "duration": 136,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "鳩が鳴いている中、男性が話している",
+        "timestamps": [
+          [
+            98,
+            104
+          ]
+        ]
+      },
+      {
+        "local_caption": "複数の鳩が一斉に飛び立つ",
+        "timestamps": [
+          [
+            132,
+            135
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "t8CV69hcvF0",
+    "global_caption": "女性が頻繁にくしゃみをし、鼻をすすり、鼻をかみ、時々話している",
+    "duration": 300,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "女性がくしゃみをしている",
+        "timestamps": [
+          [
+            7,
+            9
+          ],
+          [
+            64,
+            67
+          ],
+          [
+            117,
+            119
+          ],
+          [
+            207,
+            208
+          ],
+          [
+            266,
+            268
+          ],
+          [
+            299,
+            300
+          ],
+          [
+            16,
+            18
+          ],
+          [
+            19,
+            22
+          ],
+          [
+            10,
+            13
+          ],
+          [
+            32,
+            35
+          ],
+          [
+            37,
+            39
+          ],
+          [
+            41,
+            44
+          ],
+          [
+            80,
+            82
+          ],
+          [
+            88,
+            90
+          ],
+          [
+            125,
+            134
+          ],
+          [
+            159,
+            162
+          ],
+          [
+            164,
+            167
+          ],
+          [
+            209,
+            211
+          ],
+          [
+            212,
+            216
+          ],
+          [
+            228,
+            230
+          ],
+          [
+            231,
+            233
+          ],
+          [
+            236,
+            238
+          ],
+          [
+            248,
+            250
+          ],
+          [
+            279,
+            281
+          ],
+          [
+            285,
+            292
+          ]
+        ]
+      },
+      {
+        "local_caption": "鼻をかむ音がする",
+        "timestamps": [
+          [
+            171,
+            174
+          ],
+          [
+            180,
+            185
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tB7hWb9gTuQ",
+    "global_caption": "波の音がする",
+    "duration": 81,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "tDVADusiIoc",
+    "global_caption": "風が吹いている中、波の音がして男性が話している",
+    "duration": 83,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "女性が叫んでいる",
+        "timestamps": [
+          [
+            19,
+            21
+          ]
+        ]
+      },
+      {
+        "local_caption": "何かの機械音がする",
+        "timestamps": [
+          [
+            44,
+            45
+          ]
+        ]
+      },
+      {
+        "local_caption": "風が吹いている中、無線から男性の声がする",
+        "timestamps": [
+          [
+            61,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tDlfY3nmx1A",
+    "global_caption": "男性が話し、拍手し、複数の笑い声がする",
+    "duration": 209,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "男性の声と複数の笑い声がする",
+        "timestamps": [
+          [
+            38,
+            63
+          ],
+          [
+            78,
+            84
+          ],
+          [
+            101,
+            104
+          ],
+          [
+            115,
+            118
+          ],
+          [
+            121,
+            123
+          ],
+          [
+            156,
+            167
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性の声と拍手",
+        "timestamps": [
+          [
+            187,
+            188
+          ],
+          [
+            152,
+            167
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tDlysoZiA1I",
+    "global_caption": "鳥の鳴き声がする中、何かの動物が鳴いている",
+    "duration": 60,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "鳥の鳴き声がする中、何かの動物が鳴いている",
+        "timestamps": [
+          [
+            0,
+            21
+          ],
+          [
+            25,
+            38
+          ],
+          [
+            41,
+            49
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性が話している",
+        "timestamps": [
+          [
+            49,
+            51
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tEE3MpBt1sg",
+    "global_caption": "二人の男性が話し、笑い、何かの機械を使用している",
+    "duration": 128,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "男性が笑っている",
+        "timestamps": [
+          [
+            105,
+            128
+          ],
+          [
+            0,
+            14
+          ],
+          [
+            16,
+            24
+          ],
+          [
+            31,
+            32
+          ],
+          [
+            37,
+            84
+          ],
+          [
+            87,
+            94
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性が笑い、何かの機械の音がする",
+        "timestamps": [
+          [
+            48,
+            55
+          ],
+          [
+            42,
+            46
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tH-q8LXgHEc",
+    "global_caption": "たくさんの鳥が鳴いている",
+    "duration": 167,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "たくさんの鳥が鳴き、羽ばたく音がする",
+        "timestamps": [
+          [
+            16,
+            18
+          ],
+          [
+            44,
+            46
+          ],
+          [
+            50,
+            51
+          ],
+          [
+            61,
+            62
+          ],
+          [
+            88,
+            89
+          ],
+          [
+            105,
+            112
+          ],
+          [
+            163,
+            167
+          ]
+        ]
+      },
+      {
+        "local_caption": "たくさんの鳥が鳴き、クラクションがする",
+        "timestamps": [
+          [
+            46,
+            48
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tH17JPjDPnc",
+    "global_caption": "音楽が流れ、人々の声、機械の音、ヤギの鳴き声、金属音がする",
+    "duration": 270,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "たくさんの人が話しており、金属が擦れ合う音がする",
+        "timestamps": [
+          [
+            60,
+            73
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れ、機械の作動音がする中で、人々の声がする",
+        "timestamps": [
+          [
+            74,
+            232
+          ]
+        ]
+      },
+      {
+        "local_caption": "金属音がする中、複数のヤギが鳴いている",
+        "timestamps": [
+          [
+            259,
+            268
+          ],
+          [
+            242,
+            245
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tK4VlLsNxak",
+    "global_caption": "男性が話していて、ベルが鳴っている",
+    "duration": 210,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "男性が話している中、ベルがする",
+        "timestamps": [
+          [
+            161,
+            188
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tO_j4tdLRaA",
+    "global_caption": "女性が話し、赤ちゃんが笑っている",
+    "duration": 93,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "tPJvjq9QePY",
+    "global_caption": "誰かの声と羊の鳴き声がする",
+    "duration": 79,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "電子音がする",
+        "timestamps": [
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      {
+        "local_caption": "女性の声がする",
+        "timestamps": [
+          [
+            6,
+            9
+          ],
+          [
+            11,
+            14
+          ],
+          [
+            15,
+            18
+          ],
+          [
+            47,
+            48
+          ]
+        ]
+      },
+      {
+        "local_caption": "羊の鳴き声がする",
+        "timestamps": [
+          [
+            20,
+            22
+          ],
+          [
+            53,
+            56
+          ],
+          [
+            71,
+            73
+          ],
+          [
+            27,
+            30
+          ],
+          [
+            44,
+            47
+          ],
+          [
+            48,
+            50
+          ],
+          [
+            58,
+            60
+          ],
+          [
+            75,
+            76
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tQWGZLItBXk",
+    "global_caption": "男性が話していて、何かのゲームプレイ音と、ゲーム内での爆発音がする",
+    "duration": 182,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "男性が話していて、音楽が流れる中、水を抜いている音がする",
+        "timestamps": [
+          [
+            63,
+            70
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性が話していて、ゲーム内で金属を叩く音がする",
+        "timestamps": [
+          [
+            96,
+            103
+          ]
+        ]
+      },
+      {
+        "local_caption": "ゲーム内での爆発音がする",
+        "timestamps": [
+          [
+            161,
+            163
+          ],
+          [
+            166,
+            168
+          ],
+          [
+            107,
+            112
+          ],
+          [
+            121,
+            123
+          ],
+          [
+            16,
+            20
+          ],
+          [
+            26,
+            27
+          ],
+          [
+            82,
+            89
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tRJVUSdMjQI",
+    "global_caption": "音楽が流れていて、カメラのシャッター音がする",
+    "duration": 233,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "音楽が流れている",
+        "timestamps": [
+          [
+            156,
+            191
+          ],
+          [
+            202,
+            219
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れていて、男性が話し、カメラのシャッター音がして、人々が歓声を上げて拍手をしている",
+        "timestamps": [
+          [
+            217,
+            220
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tZGN5a7ybxo",
+    "global_caption": "電車が警笛と鐘を鳴らして走っている踏切が鳴っている",
+    "duration": 94,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "電車が警笛と鐘を鳴らして走っている",
+        "timestamps": [
+          [
+            5,
+            8
+          ],
+          [
+            53,
+            57
+          ],
+          [
+            11,
+            13
+          ],
+          [
+            65,
+            70
+          ],
+          [
+            76,
+            79
+          ]
+        ]
+      },
+      {
+        "local_caption": "踏切が鳴り、車が走行している",
+        "timestamps": [
+          [
+            20,
+            27
+          ]
+        ]
+      },
+      {
+        "local_caption": "電車が警笛を鳴らして走っている",
+        "timestamps": [
+          [
+            85,
+            93
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            11,
+            13
+          ],
+          [
+            53,
+            57
+          ],
+          [
+            65,
+            70
+          ],
+          [
+            76,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tc7UjDIyobI",
+    "global_caption": "風が吹いており、鳥の鳴き声がする",
+    "duration": 133,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "tcd9QCdjTI0",
+    "global_caption": "雨が降る中、雷が鳴っている",
+    "duration": 65,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "雨が降る中、雷が鳴っている",
+        "timestamps": [
+          [
+            2,
+            24
+          ],
+          [
+            40,
+            62
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tezvROoo4bs",
+    "global_caption": "音楽が流れ、エンジン音がする",
+    "duration": 96,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "音楽が流れ、エンジン音がする",
+        "timestamps": [
+          [
+            1,
+            15
+          ]
+        ]
+      },
+      {
+        "local_caption": "エンジン音がする",
+        "timestamps": [
+          [
+            22,
+            45
+          ],
+          [
+            48,
+            63
+          ],
+          [
+            63,
+            89
+          ],
+          [
+            1,
+            15
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "ti_DFTC-5vU",
+    "global_caption": "セミが鳴いている中、アヒルが鳴き、何かの楽器の音がして、複数人が会話をしている",
+    "duration": 64,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "セミが鳴いている中、アヒルが鳴き、何かの楽器の音がして、複数人が会話をしている",
+        "timestamps": [
+          [
+            0,
+            1
+          ],
+          [
+            3,
+            5
+          ],
+          [
+            10,
+            12
+          ]
+        ]
+      },
+      {
+        "local_caption": "セミが鳴いている中、アヒルが鳴き、複数人が笑い、会話をしている",
+        "timestamps": [
+          [
+            34,
+            40
+          ],
+          [
+            44,
+            48
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "tvP4E1r7yk8",
+    "global_caption": "電車が様々な場所で走行し、風の音や男性たちの会話がする",
+    "duration": 192,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "踏切の音がする中、電車の走行音と汽笛がする",
+        "timestamps": [
+          [
+            1,
+            10
+          ]
+        ]
+      },
+      {
+        "local_caption": "何かの作動音がする中、風が吹き、2人の男性が話している",
+        "timestamps": [
+          [
+            79,
+            90
+          ]
+        ]
+      },
+      {
+        "local_caption": "電車の走行音と汽笛がする",
+        "timestamps": [
+          [
+            186,
+            190
+          ],
+          [
+            121,
+            124
+          ],
+          [
+            128,
+            132
+          ],
+          [
+            138,
+            161
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "u--KhUW8l1Y",
+    "global_caption": "エンジン音がする中、サイレンの音がする",
+    "duration": 78,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "エンジン音がする中、サイレンがする",
+        "timestamps": [
+          [
+            2,
+            31
+          ],
+          [
+            32,
+            78
+          ]
+        ]
+      },
+      {
+        "local_caption": "エンジン音がする中、誰かの声がする",
+        "timestamps": [
+          [
+            30,
+            31
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "u-6osTkkOfY",
+    "global_caption": "風が吹いている中、汽車が蒸気を出しながら走っている",
+    "duration": 254,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "風が吹いている中、汽車が蒸気を出しながら走っている",
+        "timestamps": [
+          [
+            25,
+            57
+          ],
+          [
+            178,
+            245
+          ]
+        ]
+      },
+      {
+        "local_caption": "風が吹いている中、蒸気のような音がする",
+        "timestamps": [
+          [
+            86,
+            177
+          ],
+          [
+            61,
+            82
+          ]
+        ]
+      },
+      {
+        "local_caption": "風が吹いている中、汽笛が鳴っている",
+        "timestamps": [
+          [
+            113,
+            115
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "u5RmF3c3_Aw",
+    "global_caption": "車が走り、時折歓声がする中、男性が話している",
+    "duration": 152,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "車の走行音と、誰かの口笛の音がする",
+        "timestamps": [
+          [
+            29,
+            31
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "u6jIvCtKarQ",
+    "global_caption": "男性が話しながら料理をしており、時々後ろで何か叩く音がする",
+    "duration": 198,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "液体が流れる音がする",
+        "timestamps": [
+          [
+            93,
+            118
+          ],
+          [
+            149,
+            171
+          ]
+        ]
+      },
+      {
+        "local_caption": "何かを叩く音と液体が流れる音がする",
+        "timestamps": [
+          [
+            149,
+            171
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "u9A6VZQCZpU",
+    "global_caption": "何かのレースが行われており、男性がアナウンスをし、観客が楽しんでいる",
+    "duration": 193,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "エンジン音がする中で、アラームの音がする",
+        "timestamps": [
+          [
+            79,
+            81
+          ]
+        ]
+      },
+      {
+        "local_caption": "エンジン音が響く中、男性がアナウンスをし、観客が叫び笑っている",
+        "timestamps": [
+          [
+            172,
+            176
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uC9dtII1KDI",
+    "global_caption": "風が吹いている中、鳥の鳴き声と女性の声がして何かの動物が歩いている",
+    "duration": 228,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "風が吹いている中、鳥の鳴き声がして何かの動物が歩いている",
+        "timestamps": [
+          [
+            7,
+            15
+          ],
+          [
+            27,
+            35
+          ],
+          [
+            121,
+            162
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uCuo8zAkTvE",
+    "global_caption": "大雨が降っている",
+    "duration": 99,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "雨風の中に、雷の音がする",
+        "timestamps": [
+          [
+            45,
+            50
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uFoga8sHpiw",
+    "global_caption": "インコのような鳥がずっと動いている",
+    "duration": 240,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "誰かが口笛を吹いている",
+        "timestamps": [
+          [
+            36,
+            45
+          ],
+          [
+            87,
+            94
+          ],
+          [
+            136,
+            141
+          ],
+          [
+            148,
+            152
+          ],
+          [
+            230,
+            231
+          ],
+          [
+            97,
+            98
+          ],
+          [
+            224,
+            228
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uGS7O46tlSo",
+    "global_caption": "風の音がする中、鳥が鳴き、男性が話している",
+    "duration": 130,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "風が吹いている中、男性が話している",
+        "timestamps": [
+          [
+            5,
+            19
+          ],
+          [
+            50,
+            130
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uJV8NDaHqqk",
+    "global_caption": "鳥の鳴き声が響く中、複数の虫の羽音がして、途中で車が走行する音がする",
+    "duration": 299,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "鳥の鳴き声が響く中、複数の虫の羽音がする",
+        "timestamps": [
+          [
+            0,
+            6
+          ],
+          [
+            28,
+            30
+          ],
+          [
+            35,
+            39
+          ],
+          [
+            44,
+            89
+          ],
+          [
+            92,
+            118
+          ],
+          [
+            123,
+            134
+          ],
+          [
+            141,
+            143
+          ],
+          [
+            151,
+            174
+          ],
+          [
+            178,
+            202
+          ],
+          [
+            203,
+            206
+          ],
+          [
+            208,
+            218
+          ],
+          [
+            226,
+            238
+          ],
+          [
+            242,
+            254
+          ],
+          [
+            266,
+            276
+          ]
+        ]
+      },
+      {
+        "local_caption": "鳥の鳴き声が響く中、複数の虫の羽音がして、車が走行する音がする",
+        "timestamps": [
+          [
+            276,
+            300
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uJe1Gvp-MeM",
+    "global_caption": "鳥とニワトリの鳴き声がする",
+    "duration": 94,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "鳥の鳴き声がする",
+        "timestamps": [
+          [
+            4,
+            85
+          ]
+        ]
+      },
+      {
+        "local_caption": "ニワトリの鳴き声がする",
+        "timestamps": [
+          [
+            87,
+            90
+          ],
+          [
+            92,
+            95
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uK5doE8g_nY",
+    "global_caption": "ヘリコプターのエンジン音がして、ヘリコプターが飛んでいる",
+    "duration": 122,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "ヘリコプターのエンジン音がしている",
+        "timestamps": [
+          [
+            11,
+            24
+          ],
+          [
+            31,
+            44
+          ],
+          [
+            47,
+            57
+          ]
+        ]
+      },
+      {
+        "local_caption": "ヘリコプターのプロペラが回っている",
+        "timestamps": [
+          [
+            25,
+            31
+          ],
+          [
+            44,
+            47
+          ],
+          [
+            57,
+            116
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uMT_TDZ2mb4",
+    "global_caption": "雑音の中、モーター音とエンジン音がする",
+    "duration": 75,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "uOJJan5RRGo",
+    "global_caption": "男の子が話し、機械から音声が流れている 時折お皿を置く音がする",
+    "duration": 129,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "uOpoD0gGXcs",
+    "global_caption": "風が吹いていて鳥の鳴き声がする中、女性と男性が話し、ヤギの鳴き声がしてニワトリが鳴いている",
+    "duration": 215,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "鳥の鳴き声がする中、ニワトリが鳴いている",
+        "timestamps": [
+          [
+            68,
+            71
+          ],
+          [
+            120,
+            122
+          ],
+          [
+            141,
+            144
+          ],
+          [
+            162,
+            165
+          ],
+          [
+            172,
+            174
+          ],
+          [
+            183,
+            185
+          ],
+          [
+            196,
+            198
+          ],
+          [
+            210,
+            212
+          ]
+        ]
+      },
+      {
+        "local_caption": "鳥の鳴き声がする中、誰かが口笛を吹いている",
+        "timestamps": [
+          [
+            138,
+            140
+          ],
+          [
+            70,
+            72
+          ],
+          [
+            116,
+            118
+          ],
+          [
+            120,
+            122
+          ],
+          [
+            126,
+            128
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uP_Dn2BFTHk",
+    "global_caption": "音楽が流れ、女性が赤ちゃんをあやし、赤ちゃんが笑い、男性の声がする",
+    "duration": 152,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "女性の声、赤ちゃんの声、男性の声がする",
+        "timestamps": [
+          [
+            102,
+            120
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uXxVebHsGZ8",
+    "global_caption": "男性が話している中、時計の作動音とベルの音、軽い物がぶつかる音がする",
+    "duration": 300,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "時計の作動音とベルの音がする",
+        "timestamps": [
+          [
+            119,
+            125
+          ],
+          [
+            168,
+            200
+          ],
+          [
+            242,
+            266
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uYT5gxnyMWM",
+    "global_caption": "二人の女性が話しながら、何かを吹きかけている",
+    "duration": 71,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "スプレーのようなものを吹きかけている",
+        "timestamps": [
+          [
+            16,
+            32
+          ],
+          [
+            52,
+            57
+          ]
+        ]
+      },
+      {
+        "local_caption": "女性が大声で叫ぶ",
+        "timestamps": [
+          [
+            19,
+            26
+          ],
+          [
+            29,
+            30
+          ],
+          [
+            54,
+            57
+          ],
+          [
+            31,
+            33
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "ucQikcv96gM",
+    "global_caption": "男性が話し、近くで鳥が鳴いたり餌を食べている",
+    "duration": 166,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "男性が話し、近くで鳥が鳴いたり餌を食べる音がする",
+        "timestamps": [
+          [
+            2,
+            14
+          ],
+          [
+            42,
+            57
+          ],
+          [
+            80,
+            81
+          ],
+          [
+            87,
+            98
+          ],
+          [
+            103,
+            106
+          ],
+          [
+            131,
+            144
+          ],
+          [
+            162,
+            165
+          ],
+          [
+            123,
+            125
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "ugHJF0hfYkg",
+    "global_caption": "風が吹いている中、ヘリコプターのプロペラが回り、ヘリコプターが飛んでいる",
+    "duration": 83,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "uiItxDsDMFI",
+    "global_caption": "男性が話しながら、ノコギリで木材を切り、木材をおく音がする",
+    "duration": 120,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "土や枯葉の上を誰かが歩いている",
+        "timestamps": [
+          [
+            0,
+            7
+          ],
+          [
+            118,
+            120
+          ]
+        ]
+      },
+      {
+        "local_caption": "ノコギリで木材を切る",
+        "timestamps": [
+          [
+            30,
+            35
+          ],
+          [
+            54,
+            71
+          ],
+          [
+            77,
+            109
+          ],
+          [
+            41,
+            47
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uiNuH51lzVY",
+    "global_caption": "水の音がする場所で、男性が話している",
+    "duration": 158,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "水が流れる音がする場所で、男性が話している",
+        "timestamps": [
+          [
+            40,
+            64
+          ],
+          [
+            126,
+            147
+          ],
+          [
+            95,
+            98
+          ],
+          [
+            102,
+            105
+          ],
+          [
+            108,
+            123
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "ujjK7WUHxss",
+    "global_caption": "風の吹く場所でたくさんの羊の鳴き声がする",
+    "duration": 206,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "ukxt9I7eMMg",
+    "global_caption": "何かを揚げる音がして、男女が会話している",
+    "duration": 111,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "何かを揚げる音がする中、誰かが話している",
+        "timestamps": [
+          [
+            2,
+            31
+          ],
+          [
+            36,
+            61
+          ],
+          [
+            73,
+            95
+          ]
+        ]
+      },
+      {
+        "local_caption": "女性が話しており、金属を叩く音がする",
+        "timestamps": [
+          [
+            99,
+            100
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uln8131faVs",
+    "global_caption": "風が吹いている中、ボートが航走している",
+    "duration": 117,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "uqFtmnhuqA8",
+    "global_caption": "何かの機械が動いている中、扉が開閉しているチャイムが鳴っている",
+    "duration": 116,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "何かの機械が動いている中、チャイムが鳴っている",
+        "timestamps": [
+          [
+            26,
+            33
+          ]
+        ]
+      },
+      {
+        "local_caption": "扉が閉まっている",
+        "timestamps": [
+          [
+            105,
+            107
+          ],
+          [
+            38,
+            39
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "uzQnlJXBbOM",
+    "global_caption": "男性が話しながら電話を使用しており、電子音と着信音を鳴らしている",
+    "duration": 150,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "男性が話している",
+        "timestamps": [
+          [
+            0,
+            21
+          ],
+          [
+            31,
+            38
+          ],
+          [
+            54,
+            58
+          ],
+          [
+            69,
+            89
+          ],
+          [
+            100,
+            101
+          ],
+          [
+            114,
+            118
+          ],
+          [
+            118,
+            134
+          ],
+          [
+            108,
+            112
+          ],
+          [
+            92,
+            96
+          ],
+          [
+            40,
+            53
+          ],
+          [
+            138,
+            149
+          ]
+        ]
+      },
+      {
+        "local_caption": "電子音がする",
+        "timestamps": [
+          [
+            16,
+            30
+          ],
+          [
+            56,
+            57
+          ],
+          [
+            117,
+            118
+          ],
+          [
+            60,
+            61
+          ],
+          [
+            65,
+            66
+          ],
+          [
+            68,
+            69
+          ],
+          [
+            74,
+            76
+          ]
+        ]
+      },
+      {
+        "local_caption": "着信音がする",
+        "timestamps": [
+          [
+            39,
+            53
+          ],
+          [
+            91,
+            98
+          ],
+          [
+            107,
+            114
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "v-wcQf4BDY0",
+    "global_caption": "複数の犬が吠えている",
+    "duration": 168,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "v0wPrLBI3hg",
+    "global_caption": "風が吹いていて、複数の鳩の鳴き声と羽音がする中、男性が話している子どもたちの声がする",
+    "duration": 229,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "v0x1odnXtP0",
+    "global_caption": "タイピング音と、マウスのクリック音がする",
+    "duration": 300,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "タイピングの音がする中、犬が吠えている",
+        "timestamps": [
+          [
+            22,
+            49
+          ]
+        ]
+      },
+      {
+        "local_caption": "マウスのクリック音がする",
+        "timestamps": [
+          [
+            47,
+            49
+          ],
+          [
+            85,
+            98
+          ],
+          [
+            124,
+            131
+          ],
+          [
+            201,
+            202
+          ],
+          [
+            225,
+            228
+          ],
+          [
+            277,
+            278
+          ],
+          [
+            283,
+            286
+          ],
+          [
+            203,
+            204
+          ],
+          [
+            55,
+            56
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "v3EwremxU2w",
+    "global_caption": "犬の鳴き声がする",
+    "duration": 105,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "犬の鳴き声の中、誰かの声がする",
+        "timestamps": [
+          [
+            80,
+            82
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "v5cSxLaHADY",
+    "global_caption": "ビニール袋を開け、紙をめくっている",
+    "duration": 152,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "ビニールを触る音がする",
+        "timestamps": [
+          [
+            1,
+            37
+          ]
+        ]
+      },
+      {
+        "local_caption": "紙の音がする",
+        "timestamps": [
+          [
+            44,
+            62
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "v7Pz4dWmggg",
+    "global_caption": "男性と女性が会話としていて、赤ちゃんが泣いている",
+    "duration": 73,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "誰か話す中、赤ちゃんが泣いている",
+        "timestamps": [
+          [
+            26,
+            45
+          ],
+          [
+            57,
+            73
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性が叫んでいる",
+        "timestamps": [
+          [
+            23,
+            27
+          ],
+          [
+            55,
+            57
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "v8vMLTp5Dww",
+    "global_caption": "雨が降る中、風が吹き、男性が話しながら車を運転している",
+    "duration": 299,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "雨が降っている中、車が走行している車内で男性が話し、風の音とバイクの走行音がする",
+        "timestamps": [
+          [
+            44,
+            52
+          ],
+          [
+            114,
+            126
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vBslzh7saPw",
+    "global_caption": "風の中、男性が話しながら、エンジン音を鳴らしている",
+    "duration": 104,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "車が高速で通過する音がする",
+        "timestamps": [
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      {
+        "local_caption": "風と男性の声がする中、エンジン音がする",
+        "timestamps": [
+          [
+            43,
+            66
+          ]
+        ]
+      },
+      {
+        "local_caption": "風の音の中、エンジン音がする",
+        "timestamps": [
+          [
+            43,
+            100
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vH4z5OI5aNY",
+    "global_caption": "男性が話している中、エンジンの音と物音がしていて、笛を吹く音、群衆の話し声、ブレーキの音、拍手と歓声がする",
+    "duration": 300,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "笛を吹く音と群衆の声がする",
+        "timestamps": [
+          [
+            122,
+            125
+          ]
+        ]
+      },
+      {
+        "local_caption": "エンジンの音と笛を吹く音がする",
+        "timestamps": [
+          [
+            53,
+            57
+          ],
+          [
+            188,
+            189
+          ]
+        ]
+      },
+      {
+        "local_caption": "クラクションの音とエンジンの音がする",
+        "timestamps": [
+          [
+            160,
+            163
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vJrjSeP17yE",
+    "global_caption": "いびきをかいている",
+    "duration": 137,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "音楽が流れる中、誰かがいびきをかいている",
+        "timestamps": [
+          [
+            4,
+            27
+          ]
+        ]
+      },
+      {
+        "local_caption": "警告音が鳴り、誰かがいびきをかいている",
+        "timestamps": [
+          [
+            76,
+            80
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vSeGhaZt-aI",
+    "global_caption": "冒頭と最後に音楽が流れ、水が流れる音がする中、男性が話している",
+    "duration": 216,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "音楽が流れている",
+        "timestamps": [
+          [
+            0,
+            6
+          ],
+          [
+            202,
+            217
+          ]
+        ]
+      },
+      {
+        "local_caption": "水が流れる音がする中、男性が話している",
+        "timestamps": [
+          [
+            44,
+            59
+          ],
+          [
+            112,
+            202
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vVNMuFixN_A",
+    "global_caption": "風が吹いている中、波の音がする",
+    "duration": 115,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "vW4x7S1VfQc",
+    "global_caption": "女性が話しながら、何かに味付けをして、焼いている最後に音楽が流れる",
+    "duration": 234,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "女性が話しながら何かを振りかけている",
+        "timestamps": [
+          [
+            45,
+            61
+          ]
+        ]
+      },
+      {
+        "local_caption": "胡椒を挽いている",
+        "timestamps": [
+          [
+            79,
+            86
+          ]
+        ]
+      },
+      {
+        "local_caption": "誰かが何かを焼いている",
+        "timestamps": [
+          [
+            143,
+            178
+          ]
+        ]
+      },
+      {
+        "local_caption": "女性が話し、音楽が流れている",
+        "timestamps": [
+          [
+            218,
+            224
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vYkA3cfXp5Q",
+    "global_caption": "鳥が鳴いている中、車のエンジン音がする",
+    "duration": 62,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "vZAqdHZ81yA",
+    "global_caption": "鳥や何かの動物の鳴き声がして男性が話しており、バイクのエンジン音がする",
+    "duration": 300,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "何かの機械音がする",
+        "timestamps": [
+          [
+            169,
+            174
+          ]
+        ]
+      },
+      {
+        "local_caption": "バイクのエンジン音がする",
+        "timestamps": [
+          [
+            177,
+            267
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vZAw4apG0Es",
+    "global_caption": "複数の声がする場所で、木材同士がぶつかっている",
+    "duration": 131,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "v_OQfEIq_PY",
+    "global_caption": "エンジン音がしている",
+    "duration": 80,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "エンジン音がする中で、笛の音がする",
+        "timestamps": [
+          [
+            67,
+            69
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vaX_J_G3638",
+    "global_caption": "人々の声がする中、複数の馬が蹄鉄を鳴らしながら歩いている",
+    "duration": 179,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "人々の声がする中、複数の馬が蹄鉄を鳴らしながら歩いていて、笛が鳴っている",
+        "timestamps": [
+          [
+            79,
+            82
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽と人々の声がする中、複数の馬が蹄鉄を鳴らしながら歩いていて、笛が鳴っている",
+        "timestamps": [
+          [
+            143,
+            163
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vb1fPSD_I4c",
+    "global_caption": "プールで大勢の人が叫んだり、笑ったりしながら遊んでいる",
+    "duration": 111,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "vbr9mHKc8WM",
+    "global_caption": "エンジン音がする中、風の音と水の音がする",
+    "duration": 74,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "エンジン音がする中、水の音がする",
+        "timestamps": [
+          [
+            5,
+            18
+          ],
+          [
+            63,
+            70
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vcmWS_mvti8",
+    "global_caption": "音楽が流れる中、男性が話していて、爆弾を発射する音や爆発音やエフェクト音がする",
+    "duration": 300,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "音楽が流れる中、男性が話していて、爆弾が爆発する音がする",
+        "timestamps": [
+          [
+            2,
+            4
+          ],
+          [
+            12,
+            14
+          ],
+          [
+            35,
+            37
+          ],
+          [
+            41,
+            50
+          ],
+          [
+            53,
+            55
+          ],
+          [
+            57,
+            59
+          ],
+          [
+            75,
+            78
+          ],
+          [
+            85,
+            86
+          ],
+          [
+            98,
+            100
+          ],
+          [
+            115,
+            117
+          ],
+          [
+            157,
+            160
+          ],
+          [
+            182,
+            185
+          ],
+          [
+            192,
+            195
+          ],
+          [
+            186,
+            189
+          ],
+          [
+            213,
+            215
+          ],
+          [
+            243,
+            246
+          ],
+          [
+            251,
+            253
+          ],
+          [
+            267,
+            269
+          ],
+          [
+            274,
+            276
+          ],
+          [
+            280,
+            285
+          ],
+          [
+            296,
+            300
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vddP56-ogds",
+    "global_caption": "鳥のさえずりと水の音がする中、男性が話している",
+    "duration": 76,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "乗り物の走行音と鳥の鳴き声がする中、男性が話している",
+        "timestamps": [
+          [
+            0,
+            11
+          ]
+        ]
+      },
+      {
+        "local_caption": "鳥のさえずりと水の音がする",
+        "timestamps": [
+          [
+            24,
+            71
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vdoxuJn9lTc",
+    "global_caption": "女性が話したり、ゲップをしている",
+    "duration": 80,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "女性の声がする",
+        "timestamps": [
+          [
+            2,
+            7
+          ],
+          [
+            12,
+            16
+          ],
+          [
+            20,
+            24
+          ],
+          [
+            48,
+            50
+          ],
+          [
+            58,
+            68
+          ],
+          [
+            72,
+            79
+          ],
+          [
+            31,
+            34
+          ],
+          [
+            36,
+            42
+          ]
+        ]
+      },
+      {
+        "local_caption": "ゲップの音がする",
+        "timestamps": [
+          [
+            9,
+            12
+          ],
+          [
+            17,
+            20
+          ],
+          [
+            45,
+            47
+          ],
+          [
+            53,
+            57
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性の声がする",
+        "timestamps": [
+          [
+            69,
+            72
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vh30P49Po6s",
+    "global_caption": "男性が話し、アヒルが鳴いている",
+    "duration": 70,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "アヒルの鳴き声がする",
+        "timestamps": [
+          [
+            5,
+            69
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性の声がする",
+        "timestamps": [
+          [
+            69,
+            70
+          ],
+          [
+            0,
+            5
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vimzuGQvdcU",
+    "global_caption": "川が流れていて、複数人の声がする",
+    "duration": 139,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "水が流れる中、複数人が歓声を上げる",
+        "timestamps": [
+          [
+            136,
+            139
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "viuTg1M-dqg",
+    "global_caption": "男性や女性が話し、何かの機械が稼働している",
+    "duration": 181,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "何かを叩く音がする",
+        "timestamps": [
+          [
+            103,
+            107
+          ],
+          [
+            71,
+            75
+          ]
+        ]
+      },
+      {
+        "local_caption": "切断工具を使っている",
+        "timestamps": [
+          [
+            115,
+            119
+          ]
+        ]
+      },
+      {
+        "local_caption": "機械音がする中、女性の声がする",
+        "timestamps": [
+          [
+            165,
+            178
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vlJS7LN2XyM",
+    "global_caption": "振り子時計が動き、鐘が鳴っている",
+    "duration": 67,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "時計が鳴っている",
+        "timestamps": [
+          [
+            12,
+            23
+          ],
+          [
+            55,
+            64
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vlS6YMeWAPo",
+    "global_caption": "羊が鳴き、男性が話し、誰かが口笛を吹いている",
+    "duration": 68,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "羊の鳴き声がする",
+        "timestamps": [
+          [
+            1,
+            2
+          ],
+          [
+            19,
+            20
+          ],
+          [
+            39,
+            40
+          ],
+          [
+            49,
+            51
+          ],
+          [
+            57,
+            59
+          ],
+          [
+            65,
+            67
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            6,
+            8
+          ],
+          [
+            10,
+            11
+          ],
+          [
+            24,
+            26
+          ],
+          [
+            30,
+            32
+          ],
+          [
+            36,
+            37
+          ],
+          [
+            52,
+            54
+          ]
+        ]
+      },
+      {
+        "local_caption": "誰かの声がする",
+        "timestamps": [
+          [
+            16,
+            18
+          ],
+          [
+            31,
+            32
+          ],
+          [
+            61,
+            65
+          ]
+        ]
+      },
+      {
+        "local_caption": "口笛の音がする",
+        "timestamps": [
+          [
+            41,
+            44
+          ],
+          [
+            34,
+            38
+          ],
+          [
+            46,
+            48
+          ],
+          [
+            52,
+            56
+          ],
+          [
+            59,
+            64
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vmrxwuAMb2I",
+    "global_caption": "犬が鳴き、女性が笑っている女性が息を吹き、口笛を吹いている",
+    "duration": 66,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "誰かが息を吹いていて、犬が鳴いている",
+        "timestamps": [
+          [
+            33,
+            37
+          ],
+          [
+            43,
+            47
+          ],
+          [
+            57,
+            60
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vqZuVbG6-HI",
+    "global_caption": "人々の声がする中、ヘリコプターのプロペラが回り、ヘリコプターが飛んでいる",
+    "duration": 180,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "人々の声がして車のクラクションが鳴っている",
+        "timestamps": [
+          [
+            29,
+            31
+          ]
+        ]
+      },
+      {
+        "local_caption": "エンジン音がする",
+        "timestamps": [
+          [
+            38,
+            178
+          ]
+        ]
+      },
+      {
+        "local_caption": "ヘリコプターが飛んでいる",
+        "timestamps": [
+          [
+            153,
+            173
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vr8ZXjEBhMQ",
+    "global_caption": "男性が話しながらバイクで走行している",
+    "duration": 235,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "男性が笑っている",
+        "timestamps": [
+          [
+            119,
+            120
+          ],
+          [
+            126,
+            128
+          ]
+        ]
+      },
+      {
+        "local_caption": "車がブレーキをかける",
+        "timestamps": [
+          [
+            122,
+            123
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vveS8HT7Uog",
+    "global_caption": "男性が何かを削ったり、話したりしている",
+    "duration": 205,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "何かを削っている音がする",
+        "timestamps": [
+          [
+            74,
+            82
+          ],
+          [
+            132,
+            145
+          ],
+          [
+            86,
+            93
+          ],
+          [
+            95,
+            102
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性が話している",
+        "timestamps": [
+          [
+            103,
+            131
+          ],
+          [
+            146,
+            205
+          ],
+          [
+            1,
+            73
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vx1gfpZnjAM",
+    "global_caption": "川が流れており、鳥の鳴き声がして音楽が流れている",
+    "duration": 230,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "vzceMbkl_Wc",
+    "global_caption": "複数人の男性が笑い、話している水道から水が流れている",
+    "duration": 237,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "水道から水が流れている中、二人の男性が話し、笑っている",
+        "timestamps": [
+          [
+            0,
+            23
+          ]
+        ]
+      },
+      {
+        "local_caption": "水道から水が流れていて、男性が話している",
+        "timestamps": [
+          [
+            167,
+            184
+          ]
+        ]
+      },
+      {
+        "local_caption": "扉が閉まり、男性が笑い、扉が開く",
+        "timestamps": [
+          [
+            224,
+            225
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "vzxHnu-SFEw",
+    "global_caption": "複数の人が話している中、女性がしゃべりながら作業している",
+    "duration": 149,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "複数の人が話している中、女性の声とはさみを使う音がする",
+        "timestamps": [
+          [
+            46,
+            51
+          ],
+          [
+            55,
+            57
+          ]
+        ]
+      },
+      {
+        "local_caption": "複数の人が話している中、女性が話しながら何かを削っている",
+        "timestamps": [
+          [
+            79,
+            146
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "w0xsN8_X18Y",
+    "global_caption": "音楽が流れている中で、男性の声や自動車の音がする",
+    "duration": 106,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "音楽と自動車の音がする",
+        "timestamps": [
+          [
+            17,
+            19
+          ],
+          [
+            24,
+            26
+          ],
+          [
+            30,
+            38
+          ],
+          [
+            52,
+            55
+          ],
+          [
+            66,
+            72
+          ],
+          [
+            86,
+            91
+          ],
+          [
+            75,
+            81
+          ],
+          [
+            94,
+            96
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れている中、雨の音と男性の声をする",
+        "timestamps": [
+          [
+            42,
+            47
+          ],
+          [
+            56,
+            61
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "w1ir-sZ3Im8",
+    "global_caption": "風の音と水の音がする",
+    "duration": 106,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "w2bYrCVLT60",
+    "global_caption": "複数のアヒルが鳴いている中、男性が話している",
+    "duration": 139,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "男性が話している",
+        "timestamps": [
+          [
+            2,
+            62
+          ],
+          [
+            84,
+            89
+          ],
+          [
+            106,
+            110
+          ],
+          [
+            125,
+            130
+          ]
+        ]
+      },
+      {
+        "local_caption": "複数のアヒルの鳴き声がする中、男性が話している",
+        "timestamps": [
+          [
+            27,
+            62
+          ],
+          [
+            84,
+            89
+          ],
+          [
+            106,
+            110
+          ],
+          [
+            125,
+            130
+          ]
+        ]
+      },
+      {
+        "local_caption": "複数のアヒルが鳴いている",
+        "timestamps": [
+          [
+            27,
+            130
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "w2htir_si7g",
+    "global_caption": "二人が会話しており、誰かが口笛を吹き、別の誰かが歌っている",
+    "duration": 193,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "誰かが口笛を吹き、別の誰かが歌っている",
+        "timestamps": [
+          [
+            68,
+            91
+          ],
+          [
+            147,
+            160
+          ],
+          [
+            32,
+            36
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れている",
+        "timestamps": [
+          [
+            185,
+            193
+          ]
+        ]
+      },
+      {
+        "local_caption": "誰かが口笛を吹いている",
+        "timestamps": [
+          [
+            121,
+            160
+          ],
+          [
+            29,
+            37
+          ],
+          [
+            42,
+            53
+          ],
+          [
+            58,
+            91
+          ],
+          [
+            96,
+            116
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "w5W_5Kqtc8E",
+    "global_caption": "風が吹いている中、ボートが航走している飛行機が飛んでいて、人々が歓声を上げて拍手をしている",
+    "duration": 181,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "ボートのエンジン音がする",
+        "timestamps": [
+          [
+            0,
+            56
+          ]
+        ]
+      },
+      {
+        "local_caption": "ボートが航走している",
+        "timestamps": [
+          [
+            57,
+            86
+          ],
+          [
+            124,
+            173
+          ],
+          [
+            175,
+            178
+          ]
+        ]
+      },
+      {
+        "local_caption": "人々が歓声をあげている",
+        "timestamps": [
+          [
+            108,
+            113
+          ]
+        ]
+      },
+      {
+        "local_caption": "飛行機が飛んでいる",
+        "timestamps": [
+          [
+            114,
+            124
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "w6RTHR6AeAg",
+    "global_caption": "鳥、フクロウ、何かの動物が鳴いている",
+    "duration": 66,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "鳥が鳴いている",
+        "timestamps": [
+          [
+            11,
+            45
+          ]
+        ]
+      },
+      {
+        "local_caption": "フクロウが鳴いている",
+        "timestamps": [
+          [
+            28,
+            45
+          ]
+        ]
+      },
+      {
+        "local_caption": "何かの動物が鳴いている",
+        "timestamps": [
+          [
+            45,
+            53
+          ],
+          [
+            56,
+            64
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "w8uLijTqtlU",
+    "global_caption": "強風と波の音がする場所で誰かが話している",
+    "duration": 213,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "w9lpbUn0hPc",
+    "global_caption": "複数の人びとが話したり叫んだりしている",
+    "duration": 257,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "風の音がする中、何かを噴射する音がする",
+        "timestamps": [
+          [
+            36,
+            37
+          ],
+          [
+            51,
+            52
+          ],
+          [
+            81,
+            82
+          ],
+          [
+            96,
+            98
+          ],
+          [
+            118,
+            121
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wDVMhEdTiVw",
+    "global_caption": "鳥の鳴き声が響く中、男性と女性が水辺で銃と笛を使って鳥を狩っている",
+    "duration": 199,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "誰かが笛を吹いている",
+        "timestamps": [
+          [
+            6,
+            11
+          ],
+          [
+            20,
+            21
+          ],
+          [
+            41,
+            46
+          ],
+          [
+            123,
+            124
+          ],
+          [
+            129,
+            131
+          ],
+          [
+            156,
+            159
+          ]
+        ]
+      },
+      {
+        "local_caption": "鳥の鳴き声がする中、銃の発砲音がする",
+        "timestamps": [
+          [
+            27,
+            31
+          ],
+          [
+            60,
+            62
+          ],
+          [
+            193,
+            196
+          ],
+          [
+            140,
+            151
+          ],
+          [
+            158,
+            162
+          ]
+        ]
+      },
+      {
+        "local_caption": "誰かが水の中で動いている音がする",
+        "timestamps": [
+          [
+            32,
+            40
+          ],
+          [
+            62,
+            99
+          ],
+          [
+            194,
+            200
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wGKgwOP3h30",
+    "global_caption": "複数の鳩が鳴き、飛んでいて、誰かが口笛を吹いている",
+    "duration": 257,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "複数の鳩が鳴き、男性の声がする",
+        "timestamps": [
+          [
+            2,
+            28
+          ]
+        ]
+      },
+      {
+        "local_caption": "複数の鳩が鳴き、誰かが口笛を吹いている",
+        "timestamps": [
+          [
+            183,
+            199
+          ],
+          [
+            44,
+            69
+          ],
+          [
+            93,
+            115
+          ],
+          [
+            130,
+            143
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wIJK3-5y0kA",
+    "global_caption": "赤ちゃんと女性が話している",
+    "duration": 208,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "赤ちゃんの声がする",
+        "timestamps": [
+          [
+            1,
+            5
+          ],
+          [
+            33,
+            37
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            11,
+            16
+          ],
+          [
+            21,
+            22
+          ],
+          [
+            24,
+            26
+          ],
+          [
+            46,
+            51
+          ],
+          [
+            58,
+            62
+          ],
+          [
+            72,
+            75
+          ],
+          [
+            81,
+            83
+          ],
+          [
+            92,
+            95
+          ],
+          [
+            97,
+            99
+          ]
+        ]
+      },
+      {
+        "local_caption": "キスの効果音",
+        "timestamps": [
+          [
+            187,
+            189
+          ],
+          [
+            195,
+            199
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wP8ZKrlx3oA",
+    "global_caption": "雨が降っており、時折屋根に当たり、車が走行している音がする",
+    "duration": 188,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "雨が降っている中、クラクションが鳴り、車が走行している",
+        "timestamps": [
+          [
+            3,
+            7
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wPz6QRAkEb4",
+    "global_caption": "車が走っている近くで、鳥の鳴き声がする",
+    "duration": 199,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "鳥の鳴き声の中、飛行機のエンジン音のような音がする",
+        "timestamps": [
+          [
+            158,
+            170
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wRBHTgrbiwg",
+    "global_caption": "鳥が鳴いている中、複数の羽音がする",
+    "duration": 95,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "何かの羽音と、ニワトリの鳴き声がする",
+        "timestamps": [
+          [
+            10,
+            13
+          ]
+        ]
+      },
+      {
+        "local_caption": "鳥の鳴き声と、男性の声がする",
+        "timestamps": [
+          [
+            88,
+            89
+          ],
+          [
+            60,
+            61
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wTideSjRFS0",
+    "global_caption": "テレビの音がして女性が話し、何かを揚げながら、何かを叩いている",
+    "duration": 226,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "wWVxe57200I",
+    "global_caption": "風が吹いて鳥の鳴き声がする中、男性と女性が話している",
+    "duration": 132,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "風が吹いていて鳥の鳴き声がする中、女性が話してる",
+        "timestamps": [
+          [
+            87,
+            91
+          ],
+          [
+            111,
+            114
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "weDbePuc-Xc",
+    "global_caption": "音楽が流れ、誰かが話していて、カエルや虫の鳴き声がする何かの物語",
+    "duration": 83,
+    "num_moments": 5,
+    "moments": [
+      {
+        "local_caption": "虫が飛んでいて、ドラムロールが鳴る",
+        "timestamps": [
+          [
+            17,
+            19
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れていて、誰かが笑っている",
+        "timestamps": [
+          [
+            20,
+            27
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れていて、誰かが泣いている",
+        "timestamps": [
+          [
+            37,
+            40
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れていて、車が近づき、何かが轢かれる",
+        "timestamps": [
+          [
+            66,
+            70
+          ]
+        ]
+      },
+      {
+        "local_caption": "虫が飛んでいて、鐘が鳴っている",
+        "timestamps": [
+          [
+            73,
+            82
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wfHeoPDLMaM",
+    "global_caption": "冒頭で音楽が流れ、複数のアヒルが鳴いている",
+    "duration": 61,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "音楽が流れている",
+        "timestamps": [
+          [
+            0,
+            8
+          ]
+        ]
+      },
+      {
+        "local_caption": "複数のアヒルが鳴いている",
+        "timestamps": [
+          [
+            8,
+            61
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wicG6b_Yyus",
+    "global_caption": "バスが走っている",
+    "duration": 161,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "wl44ppID9ds",
+    "global_caption": "水しぶきの音がして、濡れた犬が震えている",
+    "duration": 91,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "水しぶきの音がする",
+        "timestamps": [
+          [
+            0,
+            74
+          ],
+          [
+            79,
+            81
+          ]
+        ]
+      },
+      {
+        "local_caption": "濡れた犬が震えていてる",
+        "timestamps": [
+          [
+            76,
+            78
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wnNNcxAPwGQ",
+    "global_caption": "エンジン音と誰かの声がする",
+    "duration": 103,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "エンジン音と男性の声がする",
+        "timestamps": [
+          [
+            33,
+            37
+          ],
+          [
+            75,
+            101
+          ]
+        ]
+      },
+      {
+        "local_caption": "エンジン音がする中、男性の声と拍手がする",
+        "timestamps": [
+          [
+            92,
+            101
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wnpJndXuxLc",
+    "global_caption": "電車が警笛を鳴らして走っている汽車が蒸気を出しながら走っている",
+    "duration": 134,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "電車の警笛が鳴っている",
+        "timestamps": [
+          [
+            1,
+            3
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            9,
+            13
+          ],
+          [
+            14,
+            27
+          ],
+          [
+            28,
+            31
+          ],
+          [
+            32,
+            40
+          ],
+          [
+            45,
+            49
+          ],
+          [
+            54,
+            55
+          ],
+          [
+            62,
+            72
+          ],
+          [
+            73,
+            76
+          ],
+          [
+            78,
+            80
+          ],
+          [
+            81,
+            85
+          ],
+          [
+            87,
+            88
+          ],
+          [
+            89,
+            92
+          ],
+          [
+            93,
+            96
+          ],
+          [
+            97,
+            102
+          ],
+          [
+            104,
+            106
+          ],
+          [
+            41,
+            43
+          ],
+          [
+            56,
+            61
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wqZ135_Ssz0",
+    "global_caption": "風が吹いている中、男性と女性が話していて、草を踏む音と何かの動物の鳴き声がする",
+    "duration": 71,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "風が吹いている中、男性が話し、笑い、水の音がする",
+        "timestamps": [
+          [
+            13,
+            16
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wqugJOvBkhY",
+    "global_caption": "赤ちゃんが泣いたり笑ったりしてる音楽が流れている",
+    "duration": 68,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "音楽と赤ちゃんの泣き声がする",
+        "timestamps": [
+          [
+            5,
+            11
+          ],
+          [
+            28,
+            41
+          ],
+          [
+            54,
+            65
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wsHBIgzs9Fs",
+    "global_caption": "バイクに乗って男性が話している",
+    "duration": 210,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "エンジン音がする中で、クラクションがする",
+        "timestamps": [
+          [
+            16,
+            18
+          ],
+          [
+            26,
+            30
+          ],
+          [
+            49,
+            52
+          ]
+        ]
+      },
+      {
+        "local_caption": "エンジン音がする中で、声がする",
+        "timestamps": [
+          [
+            20,
+            21
+          ],
+          [
+            30,
+            33
+          ],
+          [
+            43,
+            45
+          ],
+          [
+            119,
+            126
+          ],
+          [
+            169,
+            184
+          ],
+          [
+            54,
+            60
+          ],
+          [
+            68,
+            71
+          ],
+          [
+            81,
+            89
+          ],
+          [
+            74,
+            78
+          ],
+          [
+            92,
+            111
+          ],
+          [
+            133,
+            135
+          ],
+          [
+            142,
+            144
+          ],
+          [
+            188,
+            190
+          ],
+          [
+            197,
+            208
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wtDqrBygTcU",
+    "global_caption": "航行している船の中で、数人の男性が話している",
+    "duration": 292,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "wudZTNBtVqc",
+    "global_caption": "風が吹いている中、車のエンジン音がして、車が走行している",
+    "duration": 92,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "車のエンジン音がする",
+        "timestamps": [
+          [
+            4,
+            91
+          ]
+        ]
+      },
+      {
+        "local_caption": "風が吹いている中、車が走行している",
+        "timestamps": [
+          [
+            62,
+            92
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wulOEFdECWs",
+    "global_caption": "雷雨の音がする",
+    "duration": 71,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "雨の中、雷の音がする",
+        "timestamps": [
+          [
+            6,
+            15
+          ],
+          [
+            35,
+            50
+          ],
+          [
+            58,
+            71
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wwyfGO2J__4",
+    "global_caption": "人々が話している中、カメラのピントを合わせる音がする、人々が拍手をしている",
+    "duration": 121,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "人々が話している中、男性がマイクを使って話している",
+        "timestamps": [
+          [
+            0,
+            4
+          ],
+          [
+            102,
+            107
+          ]
+        ]
+      },
+      {
+        "local_caption": "人々が拍手をしている",
+        "timestamps": [
+          [
+            88,
+            94
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wyllXV6PjKo",
+    "global_caption": "子供が泣いている中、複数の人が話している",
+    "duration": 78,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "wz7N8YRy74I",
+    "global_caption": "風が吹いている中、複数の人が話している",
+    "duration": 133,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "ニワトリの鳴き声がする",
+        "timestamps": [
+          [
+            31,
+            34
+          ],
+          [
+            71,
+            74
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "wzXPRI7eXOM",
+    "global_caption": "飛行機のエンジンがかかっており、風の音と男性の話し声がする",
+    "duration": 150,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "男性の声とエンジン音がする",
+        "timestamps": [
+          [
+            0,
+            2
+          ],
+          [
+            39,
+            51
+          ],
+          [
+            59,
+            62
+          ],
+          [
+            80,
+            85
+          ],
+          [
+            96,
+            110
+          ],
+          [
+            126,
+            131
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x-Yx0rqr1vY",
+    "global_caption": "カエルの鳴き声がする中、音楽が流れ、子どもが誰かと話している",
+    "duration": 180,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "カエルの鳴き声がする中、音楽が流れている",
+        "timestamps": [
+          [
+            4,
+            26
+          ],
+          [
+            64,
+            68
+          ],
+          [
+            94,
+            98
+          ],
+          [
+            126,
+            130
+          ],
+          [
+            40,
+            54
+          ]
+        ]
+      },
+      {
+        "local_caption": "カエルの鳴き声がして、川が流れている",
+        "timestamps": [
+          [
+            130,
+            148
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れている",
+        "timestamps": [
+          [
+            149,
+            180
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x-gIWB__rIE",
+    "global_caption": "男性が話しながら料理をしている",
+    "duration": 256,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "火が燃えている",
+        "timestamps": [
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      {
+        "local_caption": "雑音がする中、胡椒を挽いている",
+        "timestamps": [
+          [
+            217,
+            218
+          ]
+        ]
+      },
+      {
+        "local_caption": "雑音がする中、男性が話し、何かを包丁で切る音がする",
+        "timestamps": [
+          [
+            65,
+            66
+          ],
+          [
+            79,
+            96
+          ],
+          [
+            224,
+            227
+          ],
+          [
+            70,
+            72
+          ]
+        ]
+      },
+      {
+        "local_caption": "雑音がする中、何かをこする音がする",
+        "timestamps": [
+          [
+            120,
+            137
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x4a9YGIw4ok",
+    "global_caption": "誰かがトイレの水を何回も流している",
+    "duration": 188,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "レバーを押し、トイレの水が流れている",
+        "timestamps": [
+          [
+            11,
+            22
+          ],
+          [
+            34,
+            37
+          ],
+          [
+            51,
+            60
+          ],
+          [
+            72,
+            84
+          ],
+          [
+            97,
+            109
+          ],
+          [
+            118,
+            125
+          ],
+          [
+            150,
+            154
+          ],
+          [
+            164,
+            183
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x4dZyf9Gbj0",
+    "global_caption": "女性が鼻をすすりながら話し、くしゃみをしている",
+    "duration": 179,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "女性がくしゃみをし、鼻をすすっている",
+        "timestamps": [
+          [
+            30,
+            33
+          ],
+          [
+            85,
+            88
+          ],
+          [
+            39,
+            41
+          ],
+          [
+            46,
+            48
+          ],
+          [
+            57,
+            59
+          ],
+          [
+            64,
+            67
+          ],
+          [
+            100,
+            104
+          ],
+          [
+            109,
+            112
+          ],
+          [
+            121,
+            125
+          ],
+          [
+            133,
+            137
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x5cuQjOdM3E",
+    "global_caption": "女性の声と猫の声がする",
+    "duration": 102,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "x5eIC7S0fbg",
+    "global_caption": "男性が話しており、機械の作動音がする",
+    "duration": 287,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "誰かが機械を使っている",
+        "timestamps": [
+          [
+            68,
+            105
+          ],
+          [
+            115,
+            125
+          ],
+          [
+            179,
+            190
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x6ijhqRY38s",
+    "global_caption": "男性が話しながら料理をしていて、ペッパーミルやアルミホイルなどを使っている",
+    "duration": 285,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "男性が話しながらペッパーミルを挽いている",
+        "timestamps": [
+          [
+            50,
+            54
+          ],
+          [
+            101,
+            109
+          ]
+        ]
+      },
+      {
+        "local_caption": "何かを焼く音がする",
+        "timestamps": [
+          [
+            82,
+            156
+          ]
+        ]
+      },
+      {
+        "local_caption": "誰かが包丁で何かを切っている",
+        "timestamps": [
+          [
+            208,
+            215
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xDsO5LiaaAY",
+    "global_caption": "男性の声とモーター音がする",
+    "duration": 256,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "モーター音がする",
+        "timestamps": [
+          [
+            5,
+            28
+          ],
+          [
+            32,
+            67
+          ],
+          [
+            70,
+            106
+          ],
+          [
+            110,
+            132
+          ],
+          [
+            135,
+            150
+          ],
+          [
+            155,
+            191
+          ],
+          [
+            197,
+            238
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xKB8O8LTs6s",
+    "global_caption": "音楽が流れる中、何かが爆発し、誰かの声がする",
+    "duration": 115,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "音楽が流れる中、エフェクト音がして男性が話している",
+        "timestamps": [
+          [
+            4,
+            19
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れる中、何かが爆発する",
+        "timestamps": [
+          [
+            49,
+            51
+          ],
+          [
+            54,
+            57
+          ],
+          [
+            69,
+            70
+          ],
+          [
+            78,
+            80
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れる中、銃声がする",
+        "timestamps": [
+          [
+            68,
+            70
+          ],
+          [
+            73,
+            74
+          ],
+          [
+            76,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xMXvkIcaG0Y",
+    "global_caption": "車のエンジン音がして、車が走っている",
+    "duration": 68,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "xNMovAf3o50",
+    "global_caption": "音楽が流れ、男性が歌っている",
+    "duration": 267,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "雨音と雷の音がする",
+        "timestamps": [
+          [
+            0,
+            6
+          ],
+          [
+            257,
+            266
+          ],
+          [
+            103,
+            122
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れている",
+        "timestamps": [
+          [
+            7,
+            257
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れ、男性が歌っている",
+        "timestamps": [
+          [
+            27,
+            103
+          ],
+          [
+            123,
+            257
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xOZfdgAgJ9o",
+    "global_caption": "女性が泣いて、笑い、女性と話している",
+    "duration": 91,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "xSKJGCItUWE",
+    "global_caption": "男性と子供が話している間、モーターの動く音がする",
+    "duration": 99,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "モーター音がする中、声がする",
+        "timestamps": [
+          [
+            0,
+            6
+          ],
+          [
+            18,
+            23
+          ],
+          [
+            32,
+            35
+          ],
+          [
+            96,
+            99
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xSN_cBFt-PI",
+    "global_caption": "時計が動き、鐘が鳴っている何かの機械が稼働し、チャイムが鳴っている",
+    "duration": 126,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "時計が動き、鐘が鳴っている",
+        "timestamps": [
+          [
+            11,
+            40
+          ],
+          [
+            74,
+            79
+          ],
+          [
+            92,
+            99
+          ],
+          [
+            119,
+            122
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xVzetIIzS9c",
+    "global_caption": "救急車がサイレンを鳴らして走っている",
+    "duration": 104,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "車の走行音の中、サイレンがする",
+        "timestamps": [
+          [
+            23,
+            31
+          ],
+          [
+            46,
+            60
+          ],
+          [
+            87,
+            104
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xZepNM9qcRA",
+    "global_caption": "風が吹いていてバイクのエンジン音がする中、男性が話し、車が通り過ぎている",
+    "duration": 177,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "バイクのエンジン音がする中、男性が話している",
+        "timestamps": [
+          [
+            0,
+            6
+          ],
+          [
+            12,
+            38
+          ],
+          [
+            48,
+            73
+          ],
+          [
+            81,
+            103
+          ],
+          [
+            126,
+            148
+          ],
+          [
+            172,
+            176
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "x_l2PIWyXaM",
+    "global_caption": "車の走行音がして女性と子供が話し、鳥が鳴き、音楽に合わせ、男性が歌を歌っている",
+    "duration": 253,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "車の走行音と音楽が流れている",
+        "timestamps": [
+          [
+            10,
+            31
+          ],
+          [
+            57,
+            76
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽に合わせ、男性が歌っている",
+        "timestamps": [
+          [
+            57,
+            75
+          ],
+          [
+            85,
+            151
+          ],
+          [
+            171,
+            246
+          ],
+          [
+            10,
+            31
+          ]
+        ]
+      },
+      {
+        "local_caption": "鳥が鳴いている中、子どもが話している",
+        "timestamps": [
+          [
+            51,
+            57
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xeOp_6mV1DY",
+    "global_caption": "複数のアヒルの鳴き声がする中、女性と男性が会話をしている",
+    "duration": 91,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "xjvTpk2Zpr8",
+    "global_caption": "風が吹いている中、エンジン音がする",
+    "duration": 145,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "xmdGaCbvhFc",
+    "global_caption": "男性が話しながらポンプを動かしている",
+    "duration": 153,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "男性の声と水の音がする",
+        "timestamps": [
+          [
+            78,
+            82
+          ]
+        ]
+      },
+      {
+        "local_caption": "水とレバーを動かす金属音がする",
+        "timestamps": [
+          [
+            75,
+            153
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xmiUIOhtZyQ",
+    "global_caption": "男性がゲップをしている",
+    "duration": 81,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "雑音の中、ゲップの音がする",
+        "timestamps": [
+          [
+            6,
+            9
+          ],
+          [
+            13,
+            18
+          ],
+          [
+            21,
+            23
+          ],
+          [
+            25,
+            27
+          ],
+          [
+            34,
+            38
+          ],
+          [
+            40,
+            43
+          ],
+          [
+            31,
+            33
+          ],
+          [
+            44,
+            46
+          ],
+          [
+            49,
+            53
+          ],
+          [
+            54,
+            55
+          ],
+          [
+            58,
+            64
+          ],
+          [
+            70,
+            74
+          ],
+          [
+            67,
+            69
+          ]
+        ]
+      },
+      {
+        "local_caption": "誰かが歌っている",
+        "timestamps": [
+          [
+            74,
+            81
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xtWeJ56-U-g",
+    "global_caption": "コンピュータを操作している",
+    "duration": 154,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "電子音がする",
+        "timestamps": [
+          [
+            25,
+            35
+          ],
+          [
+            127,
+            137
+          ]
+        ]
+      },
+      {
+        "local_caption": "タイピングをしている",
+        "timestamps": [
+          [
+            42,
+            73
+          ],
+          [
+            80,
+            86
+          ],
+          [
+            94,
+            97
+          ],
+          [
+            108,
+            119
+          ],
+          [
+            142,
+            152
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xvDdE3zNf8Y",
+    "global_caption": "女性が何かを開封しながら話している",
+    "duration": 196,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "女性が話しており、ビニールを触る音がする",
+        "timestamps": [
+          [
+            51,
+            70
+          ],
+          [
+            121,
+            125
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "xx3yKzrSOBI",
+    "global_caption": "男性が話している中、サイレンやエンジン音、カメラのシャッター音、女性の声、ドアの軋む音がする",
+    "duration": 275,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "男性が話している中、サイレンが鳴り、エンジン音がする",
+        "timestamps": [
+          [
+            35,
+            64
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性が話している中、ドアが軋む音がする",
+        "timestamps": [
+          [
+            236,
+            243
+          ],
+          [
+            268,
+            273
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "y1saVTXsKwc",
+    "global_caption": "鳥が鳴いている中、男性が話していて、犬が鳴き、吠えている",
+    "duration": 115,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "y2ZBGpgbhHM",
+    "global_caption": "犬や鳥の鳴き声がする場所で、男性が話している",
+    "duration": 104,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "犬と鳥の鳴き声がする",
+        "timestamps": [
+          [
+            0,
+            10
+          ],
+          [
+            13,
+            17
+          ],
+          [
+            26,
+            29
+          ],
+          [
+            40,
+            42
+          ],
+          [
+            43,
+            46
+          ],
+          [
+            48,
+            50
+          ],
+          [
+            51,
+            53
+          ],
+          [
+            62,
+            64
+          ],
+          [
+            67,
+            69
+          ],
+          [
+            74,
+            81
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性の声がする",
+        "timestamps": [
+          [
+            11,
+            16
+          ],
+          [
+            69,
+            72
+          ],
+          [
+            20,
+            22
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "y4NpJekTMT8",
+    "global_caption": "男の子が誰かと通話をし、ビートボックスをしている",
+    "duration": 221,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "音楽が流れている",
+        "timestamps": [
+          [
+            0,
+            29
+          ],
+          [
+            194,
+            221
+          ]
+        ]
+      },
+      {
+        "local_caption": "電話をかけている",
+        "timestamps": [
+          [
+            75,
+            77
+          ],
+          [
+            33,
+            35
+          ],
+          [
+            37,
+            39
+          ],
+          [
+            80,
+            82
+          ],
+          [
+            85,
+            87
+          ],
+          [
+            88,
+            90
+          ],
+          [
+            114,
+            115
+          ]
+        ]
+      },
+      {
+        "local_caption": "げっぷをしている",
+        "timestamps": [
+          [
+            71,
+            73
+          ]
+        ]
+      },
+      {
+        "local_caption": "男の子がビートボックスをしている",
+        "timestamps": [
+          [
+            119,
+            123
+          ],
+          [
+            124,
+            128
+          ],
+          [
+            132,
+            133
+          ],
+          [
+            171,
+            172
+          ],
+          [
+            185,
+            187
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yDoT73BWsdA",
+    "global_caption": "車が頻繁にブレーキをかけながら走行しており、時々人の声がする",
+    "duration": 273,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "車がブレーキをかけながら走行し、笑い声がする",
+        "timestamps": [
+          [
+            93,
+            94
+          ],
+          [
+            178,
+            184
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yHeVV-xeOxQ",
+    "global_caption": "女性が話しながら乳しぼりをしている",
+    "duration": 171,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "女性が話し、ニワトリが鳴く",
+        "timestamps": [
+          [
+            2,
+            5
+          ],
+          [
+            23,
+            26
+          ]
+        ]
+      },
+      {
+        "local_caption": "牛の乳しぼりをしている",
+        "timestamps": [
+          [
+            79,
+            88
+          ],
+          [
+            91,
+            165
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yHtbLI6kxAc",
+    "global_caption": "複数の鳩の鳴き、飛んでいる中、女性と子どもが話している",
+    "duration": 133,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "女性が喋る中、クラクションが鳴り、鳩が飛び立つ",
+        "timestamps": [
+          [
+            126,
+            130
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yKKOHg5xlPE",
+    "global_caption": "車の走行音がする中、男性が歩きながら話している",
+    "duration": 137,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "ドアの開閉音",
+        "timestamps": [
+          [
+            102,
+            104
+          ],
+          [
+            113,
+            115
+          ],
+          [
+            23,
+            24
+          ],
+          [
+            70,
+            72
+          ],
+          [
+            74,
+            76
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yLCORCnd35Q",
+    "global_caption": "飛行機のエンジン音がする飛行機が走り、飛んでいる",
+    "duration": 91,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "飛行機が飛んでいて、何かの楽器の音がする",
+        "timestamps": [
+          [
+            83,
+            90
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yRx9txMcBl0",
+    "global_caption": "車を走らせるゲーム",
+    "duration": 247,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "クラクションの音がする",
+        "timestamps": [
+          [
+            8,
+            11
+          ],
+          [
+            108,
+            109
+          ],
+          [
+            110,
+            113
+          ],
+          [
+            126,
+            128
+          ],
+          [
+            191,
+            193
+          ]
+        ]
+      },
+      {
+        "local_caption": "車のエンジン音とブレーキ音がする",
+        "timestamps": [
+          [
+            38,
+            41
+          ],
+          [
+            45,
+            51
+          ]
+        ]
+      },
+      {
+        "local_caption": "エンジン音とゲームの音声がする",
+        "timestamps": [
+          [
+            52,
+            53
+          ],
+          [
+            222,
+            223
+          ]
+        ]
+      },
+      {
+        "local_caption": "エンジン音と、なにかにぶつかる音がする",
+        "timestamps": [
+          [
+            62,
+            64
+          ],
+          [
+            85,
+            87
+          ],
+          [
+            107,
+            109
+          ],
+          [
+            117,
+            119
+          ],
+          [
+            132,
+            134
+          ],
+          [
+            138,
+            140
+          ],
+          [
+            162,
+            164
+          ],
+          [
+            172,
+            174
+          ],
+          [
+            189,
+            190
+          ],
+          [
+            195,
+            200
+          ],
+          [
+            217,
+            219
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yUsCyVRXMoY",
+    "global_caption": "何かの機械が動いている",
+    "duration": 113,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "何かの機械の音がする",
+        "timestamps": [
+          [
+            14,
+            24
+          ],
+          [
+            36,
+            47
+          ],
+          [
+            76,
+            111
+          ],
+          [
+            49,
+            67
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yVPZ2MNWpms",
+    "global_caption": "風が吹いている中、飛行機が離陸している",
+    "duration": 122,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "yVumC9TGknc",
+    "global_caption": "鳥のようなエフェクト音と、風が吹いていて、土を掘っている",
+    "duration": 62,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "鳥の鳴き声のようなエフェクト音",
+        "timestamps": [
+          [
+            0,
+            44
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yW6FWLSLkx4",
+    "global_caption": "女性が話している",
+    "duration": 97,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "女性が話している",
+        "timestamps": [
+          [
+            4,
+            60
+          ],
+          [
+            68,
+            82
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れている",
+        "timestamps": [
+          [
+            83,
+            97
+          ],
+          [
+            60,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yaln9y8I7ms",
+    "global_caption": "男の子が家の中で様々な家電を使いながら話し、遊んでいる",
+    "duration": 270,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "ドラムを含む音楽が流れている中、男の子が話している",
+        "timestamps": [
+          [
+            8,
+            34
+          ]
+        ]
+      },
+      {
+        "local_caption": "水が流れる音がする",
+        "timestamps": [
+          [
+            231,
+            240
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yeFvk9x0wWI",
+    "global_caption": "鳥がさえずり、何かが破裂している",
+    "duration": 79,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "何か破裂音のような音がする",
+        "timestamps": [
+          [
+            29,
+            31
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yhQ2Lg-7qDY",
+    "global_caption": "音楽が流れ、女性が話しながら食材を焼いている",
+    "duration": 160,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "何かを焼いている",
+        "timestamps": [
+          [
+            49,
+            153
+          ]
+        ]
+      },
+      {
+        "local_caption": "女性が話しながら肉をこねている",
+        "timestamps": [
+          [
+            10,
+            14
+          ],
+          [
+            27,
+            39
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yiUDYRSJpJI",
+    "global_caption": "車の走行音と爆発音がするヘリコプターが飛んでいる中、爆発音と男性の声がする",
+    "duration": 260,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "車の走行音と爆発音がする",
+        "timestamps": [
+          [
+            5,
+            41
+          ],
+          [
+            61,
+            107
+          ],
+          [
+            178,
+            186
+          ],
+          [
+            217,
+            260
+          ]
+        ]
+      },
+      {
+        "local_caption": "ヘリコプターが飛んでいる",
+        "timestamps": [
+          [
+            106,
+            176
+          ],
+          [
+            190,
+            215
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yks4cLgIDMc",
+    "global_caption": "男性の家族が自然の中で遊び、車で移動した後、家の中で複数人が話し、再びどこかへ出かけている",
+    "duration": 297,
+    "num_moments": 4,
+    "moments": [
+      {
+        "local_caption": "鳥の鳴き声がする中、男性と子供たちが話し、後ろで車のドアが閉まり、エンジンがかかる音がする",
+        "timestamps": [
+          [
+            9,
+            14
+          ]
+        ]
+      },
+      {
+        "local_caption": "川が流れている中、子供が叫んでいる",
+        "timestamps": [
+          [
+            94,
+            103
+          ]
+        ]
+      },
+      {
+        "local_caption": "車が走行中、音楽が流れている",
+        "timestamps": [
+          [
+            138,
+            153
+          ]
+        ]
+      },
+      {
+        "local_caption": "ゲーム音がする中、背後で他の人の声がする",
+        "timestamps": [
+          [
+            281,
+            290
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "yswmmRZFItk",
+    "global_caption": "複数のカエルが鳴いている",
+    "duration": 70,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "複数のカエルが鳴いている",
+        "timestamps": [
+          [
+            3,
+            67
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "z4VCMzobZbI",
+    "global_caption": "男性が話しながらミキサーを使い、パスタ料理を作っている",
+    "duration": 182,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "ミキサーが動いている",
+        "timestamps": [
+          [
+            67,
+            74
+          ],
+          [
+            92,
+            97
+          ]
+        ]
+      },
+      {
+        "local_caption": "何かを熱した鍋に入れて、煮ている",
+        "timestamps": [
+          [
+            100,
+            108
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "z4uELRI6p08",
+    "global_caption": "誰かが笑っている",
+    "duration": 74,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "誰かが笑っている",
+        "timestamps": [
+          [
+            0,
+            29
+          ],
+          [
+            48,
+            52
+          ],
+          [
+            32,
+            37
+          ],
+          [
+            39,
+            41
+          ],
+          [
+            53,
+            59
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "z5iUE5h0EPs",
+    "global_caption": "鳥が鳴いていてヤギの鳴き声がする中、誰かが会話をしていて、誰かの足音がする",
+    "duration": 89,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "鳥とヤギの鳴き声がする",
+        "timestamps": [
+          [
+            0,
+            1
+          ],
+          [
+            6,
+            8
+          ],
+          [
+            11,
+            12
+          ],
+          [
+            15,
+            16
+          ],
+          [
+            19,
+            22
+          ],
+          [
+            25,
+            26
+          ],
+          [
+            33,
+            34
+          ],
+          [
+            40,
+            42
+          ],
+          [
+            56,
+            61
+          ],
+          [
+            66,
+            68
+          ],
+          [
+            73,
+            74
+          ],
+          [
+            78,
+            82
+          ]
+        ]
+      },
+      {
+        "local_caption": "ヤギとニワトリが鳴き、鳥が飛んでいる",
+        "timestamps": [
+          [
+            59,
+            61
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "z9-3K1PFMjw",
+    "global_caption": "男性が話しながらボタンを押し、機械から女性の声がする警告音が鳴り、電話が鳴る",
+    "duration": 60,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "ボタンを押している",
+        "timestamps": [
+          [
+            1,
+            12
+          ],
+          [
+            17,
+            19
+          ],
+          [
+            28,
+            29
+          ],
+          [
+            37,
+            50
+          ]
+        ]
+      },
+      {
+        "local_caption": "何かの警告音がする",
+        "timestamps": [
+          [
+            53,
+            60
+          ]
+        ]
+      },
+      {
+        "local_caption": "何かの警告音と電話が鳴っていて、機械から女性の声がする",
+        "timestamps": [
+          [
+            58,
+            61
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zAYW_RjbHHI",
+    "global_caption": "音楽が流れ、男性が実況する中、エンジン音や走行音がする",
+    "duration": 153,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "音楽が流れる",
+        "timestamps": [
+          [
+            6,
+            82
+          ],
+          [
+            128,
+            148
+          ]
+        ]
+      },
+      {
+        "local_caption": "音楽が流れ、男性が実況する中、エンジン音や走行音がする",
+        "timestamps": [
+          [
+            15,
+            47
+          ],
+          [
+            61,
+            73
+          ]
+        ]
+      },
+      {
+        "local_caption": "エンジン音と車の走行音がする",
+        "timestamps": [
+          [
+            15,
+            129
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zCrAfDfv6-A",
+    "global_caption": "男性が口笛を吹いていて、椅子が軋む音がする",
+    "duration": 66,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "口笛を吹いている",
+        "timestamps": [
+          [
+            0,
+            61
+          ]
+        ]
+      },
+      {
+        "local_caption": "口笛を吹いている中、何かの機械音がする",
+        "timestamps": [
+          [
+            34,
+            35
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性が話している",
+        "timestamps": [
+          [
+            62,
+            64
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zF8yoL0rkbI",
+    "global_caption": "複数の車が走行しており、風の音や男性の声、クラクションの音がする",
+    "duration": 109,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "車の走行音と風の音がする中、男性が話している",
+        "timestamps": [
+          [
+            16,
+            18
+          ],
+          [
+            39,
+            40
+          ],
+          [
+            20,
+            22
+          ],
+          [
+            89,
+            93
+          ],
+          [
+            102,
+            104
+          ]
+        ]
+      },
+      {
+        "local_caption": "車の走行音と風の音がする中、クラクションの音がする",
+        "timestamps": [
+          [
+            45,
+            51
+          ],
+          [
+            72,
+            73
+          ],
+          [
+            77,
+            79
+          ],
+          [
+            84,
+            85
+          ],
+          [
+            93,
+            94
+          ],
+          [
+            98,
+            99
+          ],
+          [
+            101,
+            102
+          ],
+          [
+            106,
+            107
+          ],
+          [
+            104,
+            105
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zTLVJCo4WEE",
+    "global_caption": "虫の鳴き声がする中、二人の男性が話しながら、銃を撃っている",
+    "duration": 72,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "虫の鳴き声がして風が吹いていている中、二人の男性の声と金属音がする",
+        "timestamps": [
+          [
+            0,
+            35
+          ]
+        ]
+      },
+      {
+        "local_caption": "虫の鳴き声がする中、発砲音と金属音がする",
+        "timestamps": [
+          [
+            44,
+            46
+          ],
+          [
+            55,
+            57
+          ],
+          [
+            49,
+            51
+          ],
+          [
+            59,
+            61
+          ],
+          [
+            63,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zU-oKUEckKo",
+    "global_caption": "電車が汽笛を鳴らしながら走っている",
+    "duration": 103,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "乗り物の走行音の中、汽笛がする",
+        "timestamps": [
+          [
+            3,
+            7
+          ],
+          [
+            11,
+            17
+          ],
+          [
+            31,
+            33
+          ],
+          [
+            36,
+            38
+          ],
+          [
+            41,
+            68
+          ]
+        ]
+      },
+      {
+        "local_caption": "踏切の音がする",
+        "timestamps": [
+          [
+            20,
+            34
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zY3icUyMdh8",
+    "global_caption": "バスが走行していて、車内で複数人が会話をしている",
+    "duration": 300,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "犬が吠えている中、バスのエンジン音が響いている",
+        "timestamps": [
+          [
+            19,
+            26
+          ]
+        ]
+      },
+      {
+        "local_caption": "人の声がする中、エンジンをかける音がする",
+        "timestamps": [
+          [
+            57,
+            58
+          ]
+        ]
+      },
+      {
+        "local_caption": "バスが走行していて、車内で複数人が会話をしている",
+        "timestamps": [
+          [
+            154,
+            300
+          ],
+          [
+            101,
+            105
+          ],
+          [
+            123,
+            127
+          ],
+          [
+            131,
+            136
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zgUgkpk78xU",
+    "global_caption": "電車が踏切の音や汽笛を鳴らしながら走っている",
+    "duration": 208,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "踏切の音の中で、電車の汽笛がする",
+        "timestamps": [
+          [
+            24,
+            30
+          ],
+          [
+            41,
+            46
+          ],
+          [
+            55,
+            58
+          ],
+          [
+            62,
+            72
+          ]
+        ]
+      },
+      {
+        "local_caption": "踏切の音の中で、電車の汽笛と走行音がする",
+        "timestamps": [
+          [
+            63,
+            72
+          ]
+        ]
+      },
+      {
+        "local_caption": "踏切の音の中、電車の走行音がする",
+        "timestamps": [
+          [
+            70,
+            209
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zhx6hoYrHeI",
+    "global_caption": "バイクのエンジン音がする",
+    "duration": 213,
+    "num_moments": 0,
+    "moments": []
+  },
+  {
+    "yid": "zjTG0gaGCUI",
+    "global_caption": "風の音と飛行機のエンジン音がする",
+    "duration": 145,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "飛行機のエンジンの出力が徐々に上がっていく",
+        "timestamps": [
+          [
+            82,
+            98
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zk-xJGQU8-4",
+    "global_caption": "音楽が流れる中、女性と男性が話しながら料理をしている",
+    "duration": 271,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "音楽が流れる中、女性と男性が話し、何かを炒める音や物を置く音がする",
+        "timestamps": [
+          [
+            135,
+            194
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zl3OnWjr3Y4",
+    "global_caption": "男性が話している中、木が軋む音、笑い声、水の流れる音と咳払いがする",
+    "duration": 300,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "音楽が流れている",
+        "timestamps": [
+          [
+            0,
+            11
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性が笑っている",
+        "timestamps": [
+          [
+            212,
+            214
+          ]
+        ]
+      },
+      {
+        "local_caption": "男性が話している中、木が軋む音がする",
+        "timestamps": [
+          [
+            225,
+            232
+          ],
+          [
+            244,
+            246
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zsLxS-uLJTw",
+    "global_caption": "電車が警笛を鳴らし走っており、誰かの声がする",
+    "duration": 86,
+    "num_moments": 2,
+    "moments": [
+      {
+        "local_caption": "鳥が鳴き、女性がアナウンスをしている",
+        "timestamps": [
+          [
+            0,
+            15
+          ]
+        ]
+      },
+      {
+        "local_caption": "電車が警笛を鳴らし走っており、誰かの声がする",
+        "timestamps": [
+          [
+            20,
+            25
+          ],
+          [
+            42,
+            48
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zvmXKyAFq80",
+    "global_caption": "車のエンジンがかかり、複数の鳥が鳴いている中車が走っている",
+    "duration": 62,
+    "num_moments": 3,
+    "moments": [
+      {
+        "local_caption": "車のエンジンがかかっていて、ドアが閉まる",
+        "timestamps": [
+          [
+            2,
+            3
+          ]
+        ]
+      },
+      {
+        "local_caption": "車のエンジン音がする",
+        "timestamps": [
+          [
+            0,
+            26
+          ]
+        ]
+      },
+      {
+        "local_caption": "車が走っている",
+        "timestamps": [
+          [
+            23,
+            26
+          ],
+          [
+            57,
+            62
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "yid": "zwOBqeFTgiU",
+    "global_caption": "二人の赤ちゃんが泣いている",
+    "duration": 68,
+    "num_moments": 1,
+    "moments": [
+      {
+        "local_caption": "二人の赤ちゃんが泣いている中、女性の声がする",
+        "timestamps": [
+          [
+            40,
+            45
+          ],
+          [
+            53,
+            55
+          ]
+        ]
+      }
+    ]
+  }
+]

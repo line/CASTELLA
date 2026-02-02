@@ -89,7 +89,10 @@ The download script for the audio data is available on the [link](https://github
 
 ## Audio moment retrieval
 [Lighthouse](https://github.com/line/lighthouse/) supports the AMR recipe using CASTELLA for audio moment retrieval.
-The extracted audio and text features of CASTELLA are available on [Zenodo](https://zenodo.org/records/17412176).
+The extracted audio and text features of CASTELLA are available on [Zenodo](https://zenodo.org/records/17412176) and [HuggingFace](https://huggingface.co/datasets/lighthouse-emnlp2024/CASTELLA_CLAP_features).
+
+# Mirrors
+This dataset is also provided in [HuggingFace](https://huggingface.co/datasets/lighthouse-emnlp2024/CASTELLA). 
 
 ## Citation
 ```
